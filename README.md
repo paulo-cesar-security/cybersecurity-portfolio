@@ -1,4 +1,4 @@
-Portfólio com projetos práticos nas áreas de **Segurança da Informação, OSINT (Open Source Intelligence) e Análise Forense Digital**.
+Portfólio com projetos práticos nas áreas de **Segurança da Informação, OSINT (Open Source Intelligence) e Análise Forense Digital**
 
 Este repositório reúne estudos e investigações simuladas utilizando técnicas e ferramentas empregadas em processos de análise de evidências digitais, coleta de informações públicas e elaboração de relatórios técnicos.
 
