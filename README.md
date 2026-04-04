@@ -1,20 +1,25 @@
-Portfólio com projetos práticos nas áreas de **Segurança da Informação, OSINT (Open Source Intelligence) e Análise Forense Digital**
+# Cybersecurity & Digital Forensics Portfolio
 
-Este repositório reúne estudos e investigações simuladas utilizando técnicas e ferramentas empregadas em processos de análise de evidências digitais, coleta de informações públicas e elaboração de relatórios técnicos.
+Portfólio com projetos práticos nas áreas de Segurança da Informação, OSINT (Open Source Intelligence) e Análise Forense Digital.
 
-## Projetos incluídos
+Os projetos apresentados simulam cenários reais de investigação, com foco na coleta, análise e documentação de evidências digitais, utilizando metodologias e ferramentas amplamente empregadas no mercado.
 
- **Investigação OSINT**
-Coleta e análise de informações disponíveis publicamente na internet utilizando técnicas de inteligência de fontes abertas.
+## Projetos
 
- **Análise Forense de Imagens**
-Verificação de metadados, identificação de possíveis manipulações e análise técnica de arquivos de imagem.
+### 🔍 Investigação OSINT
+Coleta e análise de informações públicas com o objetivo de identificar padrões, relações e dados relevantes a partir de fontes abertas.
 
- **Investigação de Domínios**
-Análise de registros de domínio, infraestrutura e dados públicos relacionados a websites.
+### 🖼️ Análise Forense de Imagens
+Extração e análise de metadados, identificação de possíveis manipulações e validação da integridade de arquivos de imagem.
 
- **Análise Forense de Vídeos**
-Avaliação técnica de arquivos de vídeo para identificação de alterações, inconsistências ou evidências relevantes.
+### 🌐 Investigação de Domínios
+Análise de registros de domínio, infraestrutura e informações públicas relacionadas a websites e serviços online.
 
- **Exemplos de Laudos Técnicos de Análise Forense**
-Modelos de relatórios técnicos utilizados para documentar resultados de análises digitais de forma clara e estruturada.
+### 🎥 Análise Forense de Vídeos
+Avaliação técnica de arquivos de vídeo para detecção de inconsistências, alterações e possíveis evidências relevantes.
+
+### 📄 Laudos Técnicos
+Documentação estruturada dos resultados das análises, seguindo padrões utilizados em relatórios técnicos de investigação digital.
+
+## Objetivo
+Demonstrar habilidades práticas em investigação digital, análise de evidências e produção de relatórios técnicos, com foco em aplicação real no contexto de cibersegurança.
