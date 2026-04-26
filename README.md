@@ -7,7 +7,7 @@ Os projetos apresentados simulam cenários reais de investigação, com foco na 
 ## Projetos
 
 ### 🔍Análise de logs
-Análise de logs para identificar invasões no Microsoft ID usando CIEM Splunk
+Análise de logs para identificar invasões no Microsoft ID usando o Splunk (CIEM).
 
 ### 🔍 Investigação OSINT
 Coleta e análise de informações públicas com o objetivo de identificar padrões, relações e dados relevantes a partir de fontes abertas.
