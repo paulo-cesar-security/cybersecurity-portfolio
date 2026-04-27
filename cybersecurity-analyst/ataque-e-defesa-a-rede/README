@@ -1,1 +1,28 @@
+🔐 Laboratório de Segurança de Rede (Ataque e Defesa)
 
+Simulação prática de um ambiente real de Cybersecurity / SOC, com execução de técnicas ofensivas e defensivas em rede local controlada.
+
+🧩 Ambiente
+Ubuntu → Defesa / Monitoramento
+Windows 7 → Máquina alvo
+Lubuntu → Atacante
+🚀 Atividades Realizadas
+🔍 Mapeamento de rede (identificação de hosts e IPs com Nmap)
+📡 Análise de tráfego (captura e inspeção com Wireshark)
+🕵️ Enumeração de serviços (varredura de portas)
+🚨 Simulação de ataque MITM (ARP Spoofing com interceptação de tráfego)
+🔐 Detecção de intrusão (monitoramento com arpwatch)
+🧱 Implementação de firewall (hardening com UFW)
+🧠 Competências Demonstradas
+Monitoramento de rede (SOC)
+Análise de logs e tráfego
+Identificação de vulnerabilidades
+Detecção e resposta a ataques
+Aplicação de controles de segurança
+📄 Documentação Completa
+
+A análise detalhada, comandos utilizados e evidências do laboratório estão disponíveis no PDF anexado neste repositório.
+
+⚠️ Observação
+
+Atividades realizadas em ambiente controlado, exclusivamente para fins educacionais.
