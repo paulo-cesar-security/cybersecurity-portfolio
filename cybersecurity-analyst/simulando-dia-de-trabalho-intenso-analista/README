@@ -1,1 +1,12 @@
+Simulação prática de um dia de trabalho de um Analista de Segurança da Informação (SOC), incluindo:
 
+🔍 Monitoramento em SIEM (Microsoft Sentinel, Splunk Enterprise Security)
+🔐 Análise de logins suspeitos no Microsoft Entra ID
+📧 Resposta a phishing com Microsoft Defender for Office 365
+🖥️ Detecção e resposta a ameaças (Microsoft Defender for Endpoint, CrowdStrike Falcon)
+🧪 Investigação de malware (VirusTotal, Wireshark)
+⚠️ Gestão de vulnerabilidades com Nessus
+🌐 Configuração de firewall (FortiGate, Palo Alto Networks NGFW)
+📋 Registro e gestão de incidentes (ServiceNow / Jira Service Management)
+
+Prática completa em anexo:
