@@ -1,1 +1,34 @@
+🔐 Investigação de Ataques à MFA (Entra ID + Splunk)
 
+Laboratório prático focado na detecção de ataques contra autenticação multifator (MFA) no Microsoft Entra ID, utilizando Splunk para análise e investigação de incidentes.
+
+🚀 Atividades Realizadas
+🔍 Análise de falhas de autenticação MFA (logs Azure AD)
+🚨 Detecção de ataque de MFA fatigue (bombardeio de notificações)
+🌍 Identificação de comportamento anômalo (impossible travel)
+🧠 Correlação de eventos de login e risco
+🔐 Investigação de autenticação bem-sucedida após falhas
+📊 Criação de queries no Splunk para detecção de ataques
+🧠 Principais Descobertas
+Usuário alvo de ataque de MFA fatigue
+Alto volume de falhas MFA com código de erro específico
+Identificação de login suspeito após tentativas repetidas
+Evidência de impossible travel (mudança geográfica inconsistente)
+Confirmação de comprometimento de conta
+🛠️ Tecnologias Utilizadas
+Microsoft Entra ID (Azure AD)
+Splunk (SIEM / análise de logs)
+Identity Protection / Conditional Access
+🧠 Competências Demonstradas
+Análise de autenticação e MFA
+Threat Hunting
+Investigação de incidentes
+Detecção de ataques avançados (MFA bypass / fadiga)
+Correlação de eventos e comportamento de usuários
+📄 Documentação Completa
+
+A análise detalhada, queries utilizadas e investigação completa estão disponíveis no PDF anexado neste repositório.
+
+⚠️ Observação
+
+Atividade realizada em ambiente controlado para fins educacionais.
