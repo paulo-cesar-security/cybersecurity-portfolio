@@ -1,0 +1,33 @@
+🚨 Detecção de Força Bruta e Comprometimento de Conta (Entra ID + Splunk ES)
+
+Simulação prática de um ataque de força bruta seguido de comprometimento de conta, com investigação completa utilizando Splunk Enterprise Security e logs do Microsoft Entra ID.
+
+🚀 Atividades Realizadas
+🔍 Análise de logs de autenticação (Azure AD Sign-in)
+🚨 Detecção de tentativas de força bruta / password spraying
+🌐 Identificação de IP suspeito com múltiplas falhas de login
+🔐 Validação de login bem-sucedido após tentativas falhas
+🧠 Investigação pós-comprometimento (Audit Logs)
+📊 Criação de queries no Splunk para detecção e análise
+🧠 Principais Descobertas
+IP realizando múltiplas tentativas de login inválidas
+Evidência de ataque de força bruta bem-sucedido
+Comprometimento de conta confirmado
+Registro de alteração de senha (self-service)
+Indícios de persistência via registro de MFA
+🛠️ Tecnologias Utilizadas
+Microsoft Entra ID (Azure AD)
+Splunk Enterprise Security (SIEM)
+🧠 Competências Demonstradas
+Detecção de ataques de autenticação
+Análise de logs e correlação de eventos
+Investigação de incidentes
+Threat Hunting
+Resposta a incidentes (identificação e escalonamento)
+📄 Documentação Completa
+
+A análise detalhada, queries utilizadas e investigação completa estão disponíveis no PDF anexado neste repositório.
+
+⚠️ Observação
+
+Atividade realizada em ambiente controlado para fins educacionais.
