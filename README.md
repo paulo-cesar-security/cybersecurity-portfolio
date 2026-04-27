@@ -1,4 +1,4 @@
-# Cybersecurity & Digital Forensics Portfolio
+# Cybersecurity Portfolio
 
 Portfólio com projetos práticos nas áreas de Segurança da Informação, OSINT (Open Source Intelligence) e Análise Forense Digital.
 
@@ -12,13 +12,9 @@ Análise de logs para identificar invasões no Microsoft ID usando o Splunk (CIE
 ### 🔍 Investigação OSINT
 Coleta e análise de informações públicas com o objetivo de identificar padrões, relações e dados relevantes a partir de fontes abertas.
 
-### 🖼️ Análise Forense de Imagens
+### 🖼️ Análise Forense de Imagens, videos, domínios
 Extração e análise de metadados, identificação de possíveis manipulações e validação da integridade de arquivos de imagem.
-
-### 🌐 Investigação de Domínios
 Análise de registros de domínio, infraestrutura e informações públicas relacionadas a websites e serviços online.
-
-### 🎥 Análise Forense de Vídeos
 Avaliação técnica de arquivos de vídeo para detecção de inconsistências, alterações e possíveis evidências relevantes.
 
 ### 📄 Laudos Técnicos
