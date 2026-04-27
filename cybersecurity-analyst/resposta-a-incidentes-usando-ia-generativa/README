@@ -1,0 +1,13 @@
+🧠🤖 Resposta a Incidentes com IA Generativa (PT-BR)
+
+Simulação prática de resposta a incidentes (IR) com apoio de IA generativa, cobrindo todo o ciclo: detecção, análise, contenção e documentação.
+
+🚨 Detecção de atividade suspeita via SIEM (logs de firewall, Windows e nuvem)
+🔍 Análise automatizada de logs com IBM watsonx (Prompt Lab)
+⚠️ Identificação de anomalias: login suspeito, escalada de privilégio e IP malicioso
+🧪 Classificação do incidente com apoio de IA (força bruta / credential stuffing / ameaça interna)
+🛑 Contenção: desativação de contas, isolamento de sistemas e mitigação de acesso
+🔐 Ações críticas adicionais: redefinição de senhas e proteção de contas privilegiadas
+📋 Geração de relatório automatizado com linha do tempo, ações e próximos passos
+
+⚠️ Destaque: a IA acelera a análise e documentação, mas a validação, contexto e decisões finais permanecem sob responsabilidade humana.
