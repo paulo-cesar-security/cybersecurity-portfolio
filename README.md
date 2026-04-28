@@ -4,7 +4,7 @@ Portfólio com projetos práticos nas áreas de Segurança da Informação, OSIN
 
 Os projetos apresentados simulam cenários reais de investigação, com foco na coleta, análise e documentação de evidências digitais, utilizando metodologias e ferramentas amplamente empregadas no mercado.
 
-## Projetos
+# Projetos
 
 ## 🔍Análise de logs
 Análise de logs para identificar invasões no Microsoft Entra ID usando o Splunk (CIEM).
