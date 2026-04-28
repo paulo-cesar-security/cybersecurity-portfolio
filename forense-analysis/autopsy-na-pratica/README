@@ -1,0 +1,19 @@
+### 🧪 Análise Forense de Evidências Digitais com Autopsy
+
+Neste projeto, conduzi uma análise forense digital utilizando o Autopsy com o objetivo de investigar um possível vazamento de dados confidenciais por um funcionário. 
+A investigação foi realizada sobre uma imagem forense previamente adquirida de um dispositivo USB, garantindo a preservação da evidência original.
+
+Durante a análise, foquei na recuperação e inspeção de arquivos deletados, identificando documentos potencialmente sensíveis. 
+Entre os artefatos encontrados, destaquei dois arquivos com o mesmo nome, sendo que um continha apenas metadados e o outro apresentava conteúdo relevante.
+
+A análise detalhada do arquivo recuperado revelou informações confidenciais da empresa, incluindo descrições técnicas e dados estratégicos com potencial valor para concorrentes.
+Esses indícios reforçam a hipótese de vazamento de informações proprietárias.
+
+Os achados foram documentados e compartilhados com a equipe de resposta a incidentes, contribuindo para o avanço da investigação e identificação dos possíveis responsáveis. 
+O projeto evidencia competências em análise de artefatos digitais, recuperação de dados e investigação forense orientada a evidências.
+
+---
+
+**Autor:** Paulo Cesar
+Tecnólogo em Segurança da Informação
+LinkedIn: linkedin.com/in/paulo-cesar-security
