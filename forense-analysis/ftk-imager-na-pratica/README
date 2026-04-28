@@ -1,0 +1,13 @@
+🔍 Aquisição Forense de Dispositivo USB com FTK Imager
+
+Neste projeto, realizei a aquisição forense de um dispositivo USB suspeito de envolvimento em vazamento de dados confidenciais corporativos. Utilizei a ferramenta FTK Imager para criar uma imagem bit a bit do pendrive, seguindo boas práticas de computação forense e garantindo a integridade da evidência.
+
+O processo incluiu a seleção do dispositivo físico como fonte de evidência, definição do formato de imagem RAW (dd) e documentação detalhada das informações essenciais para a cadeia de custódia, como número do caso, identificador da evidência e dados do examinador.
+
+A criação da imagem foi realizada em ambiente controlado, assegurando que a análise posterior seja feita exclusivamente sobre a cópia, preservando o estado original do dispositivo — um princípio fundamental em investigações forenses digitais.
+
+Este procedimento demonstra habilidades práticas em aquisição de evidências, preservação da integridade dos dados e aplicação de metodologias forenses reconhecidas no mercado.
+
+Autor: Paulo Cesar
+Tecnólogo em Segurança da Informação
+LinkedIn: linkedin.com/in/paulo-cesar-security
