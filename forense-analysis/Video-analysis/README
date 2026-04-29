@@ -1,0 +1,19 @@
+Resumo do procedimento realizado
+Neste cenário, um advogado encaminha por e-mail um arquivo de vídeo que
+supostamente registra um fato relevante para um processo judicial.
+Então realizei as seguintes etapas:
+● Preservação da evidência digital recebida.
+● Criação de cópia de trabalho e cálculo de hash criptográfico para garantir
+integridade.
+● Análise de metadados do arquivo de vídeo.
+● Identificação de codec, taxa de quadros (FPS), resolução e estrutura de
+compressão.
+● Análise de possíveis cortes, edições ou recompressões.
+● Inspeção de frames individuais para detectar inconsistências.
+● Verificação de continuidade temporal e estrutural do vídeo.
+● Análise de artefatos de edição ou sobreposição digital.
+● Documentação de todo o procedimento.
+Ao final, elaborei um Laudo Técnico Pericial, indicando se existem indícios de
+manipulação, edição ou adulteração no vídeo.
+
+Todo o procedimento pode ser analisado de forma mais completa acessando o arquivo em abexo.
