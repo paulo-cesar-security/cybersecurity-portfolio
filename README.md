@@ -1,7 +1,6 @@
 # Cybersecurity Portfolio
 
 Portfólio com projetos práticos em Cibersegurança, OSINT (Open Source Intelligence) e Análise Forense Digital.
-
 Os projetos apresentados simulam cenários reais de investigação, análise de logs, detecção e resposta a incidentes, utilizando metodologias e ferramentas amplamente empregadas no mercado.
 
 # Projetos
