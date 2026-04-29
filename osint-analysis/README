@@ -1,22 +1,56 @@
-Resumo desse portfólio
-Aqui apresento a estrutura de pastas que uso para organizar uma investigação, 
-também o modelo de planilha que utilizo para armazenar as informações e o seguinte cenário:
-Neste cenário, a vítima relata que recebeu uma ligação de um indivíduo que, utilizando
-técnica de engenharia social, solicitou que fosse informado um código SMS de
-verificação recebido em seu telefone.
-Após o envio do código, o criminoso conseguiu registrar a conta da vítima no WhatsApp,
-assumindo o controle da conta e passando a utilizá-la para aplicar golpes em terceiros.
-O advogado responsável pelo caso encaminha para mim as seguintes informações:
-● número de telefone utilizado pelo suspeito
-● relatos da vítima
-● registros de comunicação
-● prints de mensagens
-Eu realizei então:
-● investigação em fontes abertas (OSINT)
-● análise de presença digital do número investigado
-● correlação com redes sociais e serviços online
-● identificação de possíveis vínculos com empresas fraudulentas ou perfis
-utilizados em golpes
-● documentação das evidências encontradas
-Com base na análise técnica, produzi um laudo pericial indicando a possível vinculação
-do número investigado a atividades fraudulentas.
+🔎 Portfólio de Investigação Digital (OSINT)
+📌 Visão Geral
+
+Este repositório apresenta a estrutura de organização utilizada em investigações digitais, incluindo:
+
+📁 Modelo de organização de pastas
+📊 Planilha de controle e registro de evidências
+🧪 Estudo de caso baseado em um cenário realista de fraude
+
+O objetivo é demonstrar, de forma prática, o processo de coleta, análise e documentação de evidências em investigações baseadas em fontes abertas (OSINT).
+
+🎯 Cenário Investigado
+
+A vítima relatou ter recebido uma ligação de um indivíduo que, utilizando técnicas de engenharia social, solicitou um código de verificação SMS.
+
+Após o fornecimento do código:
+
+O criminoso conseguiu registrar a conta da vítima no WhatsApp
+Assumiu o controle da conta
+Passou a utilizá-la para aplicar golpes em terceiros
+📥 Informações Recebidas
+
+O advogado responsável pelo caso forneceu os seguintes dados para investigação:
+
+📱 Número de telefone suspeito
+🗣️ Relatos da vítima
+💬 Registros de comunicação
+📸 Prints de mensagens
+🔍 Metodologia Aplicada
+
+Durante a investigação, foram realizadas as seguintes etapas:
+
+🌐 Coleta de informações em fontes abertas (OSINT)
+🧭 Análise da presença digital do número investigado
+🔗 Correlação com redes sociais e serviços online
+🏢 Identificação de possíveis vínculos com:
+Empresas fraudulentas
+Perfis utilizados em golpes
+🧾 Documentação detalhada das evidências encontradas
+📄 Resultado da Investigação
+
+Com base na análise técnica realizada:
+
+Foi produzido um laudo pericial
+Identificadas evidências de possível associação do número investigado com atividades fraudulentas
+Estruturada uma documentação clara e objetiva para apoio jurídico
+⚠️ Observações
+
+Este projeto tem fins educacionais e demonstrativos, com foco em boas práticas de investigação digital, análise OSINT e documentação pericial.
+
+🚀 Tecnologias e Conceitos Utilizados
+OSINT (Open Source Intelligence)
+Engenharia Social
+Análise de presença digital
+Correlação de dados
+Documentação pericial
