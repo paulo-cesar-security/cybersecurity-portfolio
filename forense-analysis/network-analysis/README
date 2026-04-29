@@ -1,17 +1,99 @@
-Resumo do procedimento realizado
-Neste cenário, uma empresa suspeita que um funcionário possa estar vazando
-informações confidenciais para um concorrente.
-A empresa me contratou para realizar uma análise técnica em dispositivos e registros
-digitais relacionados ao colaborador.
-A perícia pode envolver:
-● análise do computador corporativo do funcionário
-● análise de logs de acesso à rede
-● verificação de transferência de arquivos
-● análise de uso de dispositivos USB
-● análise de e-mails corporativos
-● investigação de envio de arquivos para serviços externos ou concorrentes
-Realizei a preservação da evidência digital, coleta os dados de forma forense, analisa os
-registros e identifica se há indícios de exfiltração de dados ou compartilhamento
-indevido de informações confidenciais.
-O resultado é formalizado em um Laudo Técnico Pericial, descrevendo os procedimentos
-adotados e as conclusões técnicas obtidas.
+# 🕵️‍♂️ Investigação de Vazamento de Dados (Insider Threat)
+
+## 📌 Visão Geral
+
+Este projeto apresenta um cenário de **investigação forense corporativa**, com foco na identificação de possíveis vazamentos de informações confidenciais por parte de um colaborador.
+
+O objetivo é demonstrar a aplicação prática de técnicas de **forense digital e análise de incidentes**, voltadas à detecção de exfiltração de dados e uso indevido de informações sensíveis.
+
+---
+
+## 🎯 Cenário
+
+Uma empresa identifica indícios de que um funcionário pode estar **vazando informações confidenciais para um concorrente**.
+
+Diante disso, é solicitada uma análise técnica completa dos dispositivos e registros digitais relacionados ao colaborador, com o objetivo de verificar a existência de atividades suspeitas.
+
+---
+
+## 🔍 Escopo da Análise
+
+A investigação pode envolver os seguintes elementos:
+
+* 💻 Análise do computador corporativo do colaborador
+* 🌐 Análise de logs de acesso à rede
+* 📁 Verificação de transferências de arquivos
+* 🔌 Monitoramento de uso de dispositivos USB
+* 📧 Análise de e-mails corporativos
+* ☁️ Investigação de envio de arquivos para:
+
+  * Serviços externos
+  * Plataformas de armazenamento em nuvem
+  * Possíveis concorrentes
+
+---
+
+## 🧪 Procedimento Realizado
+
+Durante a perícia, foram executadas as seguintes etapas:
+
+* 🔐 Preservação da evidência digital (cadeia de custódia)
+* 💾 Coleta de dados utilizando técnicas forenses
+* 🔬 Análise detalhada de artefatos e registros digitais
+* 🔗 Correlação de eventos e atividades suspeitas
+* 🚨 Identificação de possíveis indícios de:
+
+  * Exfiltração de dados
+  * Compartilhamento indevido de informações
+  * Violação de políticas de segurança
+
+---
+
+## 📄 Resultado
+
+Ao final da análise:
+
+* Foi elaborado um **Laudo Técnico Pericial**
+
+* O documento inclui:
+
+  * Metodologia aplicada
+  * Evidências identificadas
+  * Linha do tempo das atividades analisadas
+  * Conclusões técnicas fundamentadas
+
+* O laudo indica a existência (ou não) de **indícios de vazamento de dados**
+
+---
+
+## ⚖️ Aplicação
+
+Os resultados podem ser utilizados para:
+
+* 🏢 Investigações internas corporativas
+* ⚖️ Processos judiciais ou administrativos
+* 🛡️ Melhoria de controles de segurança da informação
+* 📊 Apoio à tomada de decisão estratégica
+
+---
+
+## ⚠️ Observações
+
+Este projeto possui finalidade **educacional e demonstrativa**, baseado em cenários realistas de investigação corporativa.
+
+---
+
+## 🚀 Competências Demonstradas
+
+* Forense Computacional (DFIR)
+* Investigação de Insider Threat
+* Análise de Logs e Eventos
+* Correlação de Evidências
+* Cadeia de Custódia
+* Elaboração de Laudos Técnicos
+
+---
+
+## 📬 Contato
+
+Aberto para oportunidades e networking na área de **Segurança da Informação, DFIR e Investigação Digital**.
