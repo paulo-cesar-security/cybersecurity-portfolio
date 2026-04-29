@@ -1,1 +1,62 @@
+🧪 Portfólio de Forense Computacional
+📌 Visão Geral
 
+Este repositório apresenta cenários práticos de investigação forense digital, com foco na análise de evidências, recuperação de dados e identificação de atividades maliciosas.
+
+O objetivo é demonstrar, de forma aplicada, técnicas utilizadas em investigações reais, utilizando ferramentas profissionais como o Autopsy.
+
+🎯 Objetivo
+
+Demonstrar habilidades em:
+
+🔍 Análise forense de dispositivos digitais
+🗂️ Recuperação de arquivos deletados
+🕵️ Identificação de vazamento de dados
+🧬 Análise de integridade de arquivos
+📊 Documentação técnica de evidências
+🧪 Cenários Investigados
+🔐 Roubo de Arquivos Confidenciais
+Investigação de possíveis exfiltrações de dados
+Identificação de arquivos acessados, copiados ou removidos
+Correlação de evidências para determinar autoria e intenção
+🗑️ Recuperação de Dados Deletados
+Recuperação de arquivos excluídos intencionalmente
+Análise de artefatos remanescentes no sistema
+Identificação de tentativas de ocultação de evidências
+🖼️ Análise de Imagens e Vídeos
+Detecção de edições e manipulações
+Verificação de metadados (EXIF)
+Identificação de inconsistências e possíveis fraudes digitais
+🛠️ Ferramentas Utilizadas
+🧰 Autopsy
+💾 FTK Imager
+🔎 Técnicas de análise de artefatos digitais
+📁 Estruturação de evidências forenses
+🔍 Metodologia
+
+As investigações seguem um processo estruturado:
+
+📥 Aquisição de evidências (imagens forenses)
+🔬 Análise detalhada dos artefatos
+🔗 Correlação de informações relevantes
+🧾 Documentação das descobertas
+📄 Elaboração de laudo técnico
+📄 Resultados
+Produção de relatórios técnicos detalhados
+Identificação de atividades suspeitas ou maliciosas
+Recuperação de evidências relevantes para investigação
+Apoio à tomada de decisão em contextos legais ou corporativos
+⚠️ Observações
+
+Este portfólio tem caráter educacional e demonstrativo, com foco em boas práticas de forense digital e análise de evidências.
+
+🚀 Competências Demonstradas
+Forense Computacional
+Análise de Artefatos Digitais
+Recuperação de Dados
+Investigação de Incidentes
+Cadeia de Custódia
+Documentação Pericial
+📬 Contato
+
+Aberto para networking e oportunidades na área de Segurança da Informação e Forense Digital.
