@@ -1,19 +1,62 @@
-Resumo do procedimento realizado
-Neste cenário, um advogado encaminha por e-mail um arquivo de vídeo que
-supostamente registra um fato relevante para um processo judicial.
-Então realizei as seguintes etapas:
-● Preservação da evidência digital recebida.
-● Criação de cópia de trabalho e cálculo de hash criptográfico para garantir
-integridade.
-● Análise de metadados do arquivo de vídeo.
-● Identificação de codec, taxa de quadros (FPS), resolução e estrutura de
-compressão.
-● Análise de possíveis cortes, edições ou recompressões.
-● Inspeção de frames individuais para detectar inconsistências.
-● Verificação de continuidade temporal e estrutural do vídeo.
-● Análise de artefatos de edição ou sobreposição digital.
-● Documentação de todo o procedimento.
-Ao final, elaborei um Laudo Técnico Pericial, indicando se existem indícios de
-manipulação, edição ou adulteração no vídeo.
+🎥 Análise Forense de Vídeo Digital
+📌 Visão Geral
 
-Todo o procedimento pode ser analisado de forma mais completa acessando o arquivo em abexo.
+Este projeto apresenta um procedimento completo de análise forense de vídeo, com foco na verificação de autenticidade e identificação de possíveis manipulações em evidências digitais.
+
+O cenário simula um contexto jurídico real, onde um arquivo de vídeo é submetido à análise técnica para validação pericial.
+
+🎯 Cenário
+
+Um advogado encaminha, via e-mail, um arquivo de vídeo que supostamente registra um fato relevante para um processo judicial.
+
+A partir disso, foi conduzida uma análise forense com o objetivo de verificar a integridade, autenticidade e possíveis indícios de adulteração do material.
+
+🔍 Procedimento Realizado
+
+Durante a investigação, foram executadas as seguintes etapas:
+
+🔐 Preservação da evidência digital original
+💾 Criação de cópia de trabalho (cópia forense)
+🔑 Cálculo de hash criptográfico para garantia de integridade
+📊 Análise de metadados do arquivo de vídeo
+🎞️ Identificação de:
+Codec utilizado
+Taxa de quadros (FPS)
+Resolução
+Estrutura de compressão
+✂️ Análise de possíveis:
+Cortes
+Edições
+Recompressões
+🧩 Inspeção de frames individuais para detecção de inconsistências
+⏱️ Verificação de continuidade temporal e estrutural
+🧬 Identificação de artefatos de edição ou sobreposição digital
+🧾 Documentação completa de todo o processo
+📄 Resultado
+
+Ao final da análise:
+
+Foi elaborado um Laudo Técnico Pericial
+O laudo indica a existência (ou não) de:
+Manipulação
+Edição
+Adulteração do vídeo
+As conclusões foram fundamentadas em evidências técnicas documentadas
+📎 Documentação
+
+O procedimento completo, com detalhes técnicos e evidências analisadas, pode ser consultado no arquivo anexado neste repositório.
+
+⚠️ Observações
+
+Este projeto possui finalidade educacional e demonstrativa, seguindo boas práticas de forense digital e análise de evidências audiovisuais.
+
+🚀 Competências Demonstradas
+Forense de Mídias Digitais
+Análise de Vídeo
+Integridade de Evidências
+Cadeia de Custódia
+Análise de Metadados
+Elaboração de Laudos Técnicos
+📬 Contato
+
+Disponível para oportunidades e networking na área de Forense Digital e Segurança da Informação.
