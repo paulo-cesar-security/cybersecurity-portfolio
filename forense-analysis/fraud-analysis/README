@@ -1,1 +1,82 @@
-Aqui apresento um caso real acontecido com meu pai. Trata-se de um golpe utilizando maquina de cartão com visor adulterado.
+# 💳 Análise de Golpe com Máquina de Cartão Adulterada
+
+## 📌 Visão Geral
+
+Este projeto apresenta a análise de um **caso real de fraude**, envolvendo o uso de uma máquina de cartão com visor adulterado.
+
+O objetivo é demonstrar, de forma prática, como golpes desse tipo ocorrem, quais são seus indícios e como podem ser identificados sob a perspectiva de segurança da informação.
+
+---
+
+## 🎯 Cenário
+
+O caso envolve um golpe aplicado contra um familiar, no qual foi utilizada uma **máquina de cartão manipulada**, com o visor exibindo informações divergentes do valor real da transação.
+
+A vítima realizou o pagamento acreditando estar autorizando um valor legítimo, enquanto o dispositivo apresentava dados falsificados.
+
+---
+
+## ⚠️ Como o Golpe Funciona
+
+Esse tipo de fraude normalmente envolve:
+
+* 📟 Alteração ou manipulação do visor da máquina de cartão
+* 💰 Exibição de valores incorretos para enganar a vítima
+* 🔒 Indução da vítima a inserir senha sem perceber a fraude
+* 🕵️ Dificuldade de identificação imediata após a transação
+
+---
+
+## 🔍 Análise Realizada
+
+A partir do ocorrido, foram avaliados os seguintes pontos:
+
+* 🧠 Engenharia social utilizada pelo golpista
+* 📊 Comportamento da transação realizada
+* ⚠️ Indícios de adulteração do dispositivo
+* 👁️ Diferença entre o valor exibido e o valor cobrado
+* 📉 Possíveis falhas de verificação por parte da vítima
+
+---
+
+## 📄 Conclusão
+
+A análise indica que o golpe foi possível devido à combinação de:
+
+* Manipulação do dispositivo de pagamento
+* Falta de visibilidade clara da transação real
+* Uso de técnicas de engenharia social para induzir confiança
+
+O caso reforça a importância de validação cuidadosa de pagamentos eletrônicos.
+
+---
+
+## 🛡️ Recomendações de Segurança
+
+* ✔️ Sempre conferir o valor diretamente na máquina antes de digitar a senha
+* ✔️ Evitar cobrir totalmente o visor durante a digitação
+* ✔️ Solicitar comprovante da transação
+* ✔️ Preferir pagamentos por aproximação (quando possível)
+* ✔️ Desconfiar de qualquer comportamento incomum do dispositivo
+
+---
+
+## ⚠️ Observações
+
+Este projeto tem caráter **educacional e de conscientização**, com base em um caso real, visando alertar sobre práticas comuns de fraude.
+
+---
+
+## 🚀 Competências Demonstradas
+
+* Análise de fraudes
+* Engenharia social
+* Segurança em meios de pagamento
+* Investigação de incidentes
+* Conscientização em segurança da informação
+
+---
+
+## 📬 Contato
+
+Aberto para networking e oportunidades na área de **Segurança da Informação e Análise de Fraudes**.
