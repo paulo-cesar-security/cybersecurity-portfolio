@@ -1,1 +1,11 @@
+🔐 Configuração do Ambiente no Microsoft Sentinel
 
+Neste projeto, realizei a configuração inicial do ambiente no Microsoft Sentinel com foco em otimização de custos, conformidade regulatória 
+e melhoria da eficiência operacional do time de segurança.
+
+Durante a prática, inicializei um workspace integrado ao Log Analytics, criei uma watchlist para monitoramento de ativos críticos, 
+adicionei indicadores de ameaça (Threat Intelligence) para enriquecimento de detecções e configurei políticas de retenção de logs para garantir governança e controle de dados.
+
+Essa implementação estabelece uma base sólida para operações de segurança (SecOps) 🛡️, permitindo melhor visibilidade, correlação de eventos e suporte à detecção e resposta a incidentes.
+
+Para analisar tudo o que fiz passo a passo deixo disponível o arquivo em pdf na pasta anexo.
