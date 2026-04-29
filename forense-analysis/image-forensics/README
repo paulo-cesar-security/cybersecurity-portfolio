@@ -1,0 +1,21 @@
+Aqui apresento um exemplo didático de como estruturei um laudo técnico pericial de
+análise de imagem (print) recebido por um advogado.
+1. Resumo do procedimento realizado
+Neste exemplo, um advogado encaminha por e-mail um print (captura de tela) que
+supostamente comprova determinada comunicação ou informação relevante para
+um processo judicial.
+O que fiz foi:
+● Preservação da evidência digital recebida.
+● Registro de hash criptográfico do arquivo para garantir integridade.
+● Análise dos metadados do arquivo.
+● Verificação de estrutura do arquivo e compressão.
+● Análise de inconsistências visuais e artefatos de edição.
+● Aplicação de técnicas como:
+○ Error Level Analysis (ELA)
+○ Análise de histogramas
+○ Inspeção de bordas e camadas
+○ Verificação de recompressão
+● Registro detalhado da metodologia utilizada.
+● Conclusão técnica indicando se existem ou não indícios de manipulação.
+O resultado é formalizado em um Laudo Técnico Pericial, que pode ser anexado ao
+processo como prova técnica especializada.
