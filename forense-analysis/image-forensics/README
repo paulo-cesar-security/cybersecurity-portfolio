@@ -1,21 +1,85 @@
-Aqui apresento um exemplo didático de como estruturei um laudo técnico pericial de
-análise de imagem (print) recebido por um advogado.
-1. Resumo do procedimento realizado
-Neste exemplo, um advogado encaminha por e-mail um print (captura de tela) que
-supostamente comprova determinada comunicação ou informação relevante para
-um processo judicial.
-O que fiz foi:
-● Preservação da evidência digital recebida.
-● Registro de hash criptográfico do arquivo para garantir integridade.
-● Análise dos metadados do arquivo.
-● Verificação de estrutura do arquivo e compressão.
-● Análise de inconsistências visuais e artefatos de edição.
-● Aplicação de técnicas como:
-○ Error Level Analysis (ELA)
-○ Análise de histogramas
-○ Inspeção de bordas e camadas
-○ Verificação de recompressão
-● Registro detalhado da metodologia utilizada.
-● Conclusão técnica indicando se existem ou não indícios de manipulação.
-O resultado é formalizado em um Laudo Técnico Pericial, que pode ser anexado ao
-processo como prova técnica especializada.
+# 🖼️ Análise Forense de Imagem (Print / Captura de Tela)
+
+## 📌 Visão Geral
+
+Este projeto apresenta um exemplo didático de **elaboração de Laudo Técnico Pericial** voltado à análise forense de imagens digitais, especificamente capturas de tela (*prints*).
+
+O objetivo é demonstrar, de forma estruturada, como validar a autenticidade de uma evidência digital utilizada em contexto jurídico.
+
+---
+
+## 🎯 Cenário
+
+Um advogado encaminha, via e-mail, uma imagem (print) que supostamente comprova uma comunicação ou informação relevante para um processo judicial.
+
+A análise tem como finalidade verificar a **integridade, autenticidade e possíveis indícios de manipulação** da imagem apresentada.
+
+---
+
+## 🔍 Procedimento Realizado
+
+Durante a análise pericial, foram executadas as seguintes etapas:
+
+* 🔐 Preservação da evidência digital original
+* 🔑 Geração de hash criptográfico para garantia de integridade
+* 📊 Análise de metadados do arquivo
+* 🧩 Verificação da estrutura do arquivo e padrões de compressão
+* 👁️ Análise de inconsistências visuais e artefatos de edição
+
+### 🧪 Técnicas Aplicadas
+
+Foram utilizadas técnicas reconhecidas na análise forense de imagens:
+
+* 📉 **Error Level Analysis (ELA)**
+* 📊 Análise de histogramas
+* ✂️ Inspeção de bordas e possíveis sobreposições
+* 🧬 Verificação de recompressão e alterações estruturais
+
+---
+
+## 📄 Resultado
+
+Ao final do procedimento:
+
+* Foi elaborado um **Laudo Técnico Pericial**
+
+* O documento apresenta:
+
+  * Metodologia aplicada
+  * Evidências identificadas
+  * Análise técnica detalhada
+  * Conclusão fundamentada
+
+* A conclusão indica a existência (ou não) de **indícios de manipulação ou adulteração da imagem**
+
+---
+
+## ⚖️ Aplicação Jurídica
+
+O laudo produzido pode ser:
+
+* 📎 Anexado a processos judiciais
+* 🧾 Utilizado como prova técnica especializada
+* ⚖️ Base para tomada de decisão em contexto legal
+
+---
+
+## ⚠️ Observações
+
+Este projeto possui finalidade **educacional e demonstrativa**, seguindo boas práticas de forense digital e análise de evidências.
+
+---
+
+## 🚀 Competências Demonstradas
+
+* Forense de Imagens Digitais
+* Análise de Integridade de Arquivos
+* Técnicas de Detecção de Manipulação
+* Cadeia de Custódia
+* Elaboração de Laudos Periciais
+
+---
+
+## 📬 Contato
+
+Disponível para oportunidades e networking na área de **Forense Digital e Segurança da Informação**.
