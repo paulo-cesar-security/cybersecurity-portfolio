@@ -1,0 +1,34 @@
+🔐 Investigação Pós-Comprometimento (Entra ID + Splunk)
+
+Laboratório prático focado na análise de atividades maliciosas após comprometimento de conta, com ênfase em escalada de privilégios e persistência no Microsoft Entra ID utilizando Splunk.
+
+🚀 Atividades Realizadas
+🔍 Análise de logs de auditoria (Azure AD Audit Logs)
+⬆️ Detecção de escalada de privilégios (atribuição de roles)
+👤 Identificação de criação de contas suspeitas
+🔐 Monitoramento de alterações em MFA (persistência)
+🧠 Correlação de ações administrativas suspeitas
+📊 Criação de queries no Splunk para investigação
+🧠 Principais Descobertas
+Criação de conta maliciosa no tenant
+Atribuição de privilégio elevado (Global Administrator)
+Indícios claros de persistência via MFA
+Evidência de atividade administrativa fora do padrão
+🛠️ Tecnologias Utilizadas
+Microsoft Entra ID (Azure AD)
+Splunk (SIEM / análise de logs)
+🧠 Competências Demonstradas
+Investigação pós-incidente
+Análise de logs de auditoria
+Detecção de escalada de privilégios
+Identificação de persistência
+Threat Hunting e resposta a incidentes
+📄 Documentação Completa
+
+A análise detalhada, queries utilizadas e investigação completa estão disponíveis no PDF anexado neste repositório:
+https://github.com/paulo-cesar-security/cybersecurity-portfolio/blob/main/cybersecurity-analyst/anexos/Investiga%C3%A7%C3%A3o%20de%20atividades%20p%C3%B3s-comprometimento.pdf
+
+
+⚠️ Observação
+
+Atividade realizada em ambiente controlado para fins educacionais.
