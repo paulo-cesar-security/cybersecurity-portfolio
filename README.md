@@ -44,7 +44,8 @@ Organização de achados técnicos para tomada de decisão
 
 Comunicação profissional alinhada a ambientes corporativos
 
-🎯 Objetivo
+# 🎯 Objetivo
+
 Demonstrar competências práticas em Cibersegurança, com foco em:
 
 Detecção e resposta a incidentes
