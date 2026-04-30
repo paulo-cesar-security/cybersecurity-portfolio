@@ -1,0 +1,65 @@
+🔐 Microsoft Entra ID — User Management Lab
+
+📌 Sobre o Projeto
+
+Este projeto simula um ambiente real de Administração de Identidade (Identity Management) utilizando o Microsoft Entra ID.
+
+Atuo como administrador de segurança responsável por:
+
+Criação e gerenciamento de usuários
+Atribuição de licenças Microsoft 365
+Gestão de usuários externos (Guest/B2B)
+Controle de permissões e roles (RBAC)
+Importação em massa de usuários via CSV
+
+O objetivo é demonstrar habilidades práticas em Identity Security e IAM (Identity and Access Management).
+
+🧠 Tecnologias e Conceitos Utilizados
+Microsoft Entra ID (Azure AD)
+Microsoft 365 Admin Center
+RBAC (Role-Based Access Control)
+Identity & Access Management (IAM)
+B2B Collaboration (Guest Users)
+Bulk User Import (CSV provisioning)
+MFA (Multi-Factor Authentication)
+🧪 Laboratório — Etapas Executadas
+👤 1. Criação de Usuário no Entra ID
+Criação de usuário interno no tenant
+Configuração de UPN, nome e localização
+Ativação de conta e geração de senha automática
+Teste de login via ambiente anônimo
+Validação de MFA
+📦 2. Atribuição de Licença Microsoft 365
+Acesso ao Microsoft 365 Admin Center
+Seleção de licença: Power Automate Free
+Associação da licença ao usuário criado
+🌐 3. Convidar Usuário Externo (Guest User)
+Criação de usuário B2B
+Envio de convite por e-mail externo
+Definição de mensagem personalizada de onboarding
+🛡️ 4. Gerenciamento de Roles (RBAC)
+Atribuição de função:
+Attribute Definition Reader
+Método alternativo:
+Log Analytics Reader (com justificativa de segurança)
+Aplicação de conceitos de menor privilégio (Least Privilege)
+📥 5. Importação em Massa de Usuários
+Download de template CSV
+Edição de dados com domínio do tenant
+Upload e validação do arquivo
+Criação automatizada de múltiplos usuários
+🎯 Resultados
+
+✔ Usuário criado e autenticado com sucesso
+✔ Licença Microsoft 365 atribuída corretamente
+✔ Usuário externo convidado via B2B
+✔ Roles aplicadas com controle de acesso baseado em função
+✔ Usuários criados em massa com sucesso via CSV
+
+🔐 Habilidades Demonstradas
+Administração de identidade no Microsoft Entra ID
+Gerenciamento de ciclo de vida de usuários
+Controle de acesso baseado em função (RBAC)
+Integração com Microsoft 365
+Segurança de identidade e MFA
+Provisionamento automatizado de usuários
