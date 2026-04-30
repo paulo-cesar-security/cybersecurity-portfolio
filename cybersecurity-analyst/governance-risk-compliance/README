@@ -1,1 +1,44 @@
+📋 Governance, Risk & Compliance (GRC) Portfolio
 
+Este repositório reúne meus projetos e estudos práticos em Governance, Risk & Compliance (GRC) aplicados à cibersegurança, com foco em governança de segurança da informação, gestão de riscos e conformidade com normas e frameworks internacionais.
+
+🎯 Objetivo
+
+Demonstrar habilidades em:
+
+Implementação de práticas de Governança de Segurança da Informação
+Identificação, análise e tratamento de riscos cibernéticos
+Avaliação de controles de segurança
+Conformidade com normas, leis e frameworks
+Apoio à tomada de decisão baseada em risco
+Documentação e padronização de políticas de segurança
+🧭 Áreas de Atuação
+🏛️ Governance (Governança)
+Definição de políticas e padrões de segurança
+Estruturação de processos de segurança da informação
+Alinhamento com objetivos estratégicos do negócio
+Definição de controles organizacionais
+⚠️ Risk (Gestão de Riscos)
+Identificação de ameaças e vulnerabilidades
+Análise de impacto e probabilidade
+Construção de matriz de riscos
+Tratamento de riscos (mitigar, aceitar, transferir ou evitar)
+Monitoramento contínuo de riscos
+📑 Compliance (Conformidade)
+Avaliação de conformidade com normas e regulamentos
+Análise de gaps de segurança
+Suporte a auditorias internas e externas
+Adequação a frameworks e legislações
+📚 Frameworks e Normas Utilizadas
+ISO/IEC 27001 / 27002
+NIST Cybersecurity Framework (CSF)
+NIST Risk Management Framework (RMF)
+CIS Controls
+LGPD (Lei Geral de Proteção de Dados – Brasil)
+MITRE ATT&CK (apoio à análise de ameaças)
+🧰 Ferramentas e Abordagens
+Excel / Google Sheets (Matriz de risco e inventário de ativos)
+Modelagem de risco (Risk Assessment)
+SIEM (Microsoft Sentinel, Splunk, Wazuh) para apoio de evidências
+Documentação técnica e políticas organizacionais
+Análise de controles de segurança
