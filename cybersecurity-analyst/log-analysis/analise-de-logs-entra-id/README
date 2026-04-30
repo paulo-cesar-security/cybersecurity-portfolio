@@ -1,0 +1,33 @@
+🔎 Análise de Logs do Entra ID (Detecção de Ataques com Splunk)
+
+Laboratório prático focado em detecção de ataques de autenticação no Microsoft Entra ID, utilizando Splunk para identificar padrões de comprometimento de contas.
+
+🚀 Atividades Realizadas
+🔍 Análise de logs de autenticação (Azure AD Sign-in)
+🚨 Detecção de ataques de password spraying
+🔐 Identificação de ataques de força bruta (low and slow)
+🌐 Correlação de IPs suspeitos e múltiplas contas
+🧠 Investigação de logins bem-sucedidos após tentativas falhas
+📊 Criação de queries no Splunk para detecção de padrões
+🧠 Principais Descobertas
+IP realizando password spraying (múltiplas contas)
+IP executando força bruta com baixa taxa
+Identificação de conta comprometida após login bem-sucedido
+Evidência de ataques sem exploração de vulnerabilidades (uso de credenciais válidas)
+🛠️ Tecnologias Utilizadas
+Microsoft Entra ID (Azure AD)
+Splunk (SIEM / análise de logs)
+🧠 Competências Demonstradas
+Análise de logs de autenticação
+Detecção de ataques baseados em credenciais
+Threat Hunting
+Investigação de incidentes
+Correlação de eventos e padrões
+📄 Documentação Completa
+
+A análise detalhada, queries utilizadas e investigação completa estão disponíveis no PDF anexado neste repositório:
+https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/cybersecurity-analyst/anexos
+
+⚠️ Observação
+
+Atividade realizada em ambiente controlado para fins educacionais.
