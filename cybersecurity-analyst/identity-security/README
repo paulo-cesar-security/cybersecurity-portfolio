@@ -1,1 +1,39 @@
+🔐 Identity Security (Microsoft Entra ID) Portfolio
 
+Este repositório reúne meus projetos e estudos práticos em Identity Security, com foco no Microsoft Entra ID (Azure Active Directory), abordando autenticação, autorização, controle de acesso e proteção de identidades em ambientes corporativos.
+
+🎯 Objetivo
+
+Demonstrar habilidades em:
+
+Gestão de identidades e acessos (IAM)
+Configuração e administração do Microsoft Entra ID
+Implementação de políticas de segurança de identidade
+Proteção contra ataques baseados em credenciais
+Aplicação de princípios de Zero Trust
+Monitoramento e investigação de eventos de autenticação
+🧭 Áreas de Atuação
+🆔 Identity & Access Management (IAM)
+Criação e gerenciamento de usuários e grupos
+Controle de permissões e funções (RBAC)
+Gestão do ciclo de vida de identidades
+🔐 Authentication & Authorization
+Métodos de autenticação (MFA, passwordless)
+Políticas de acesso condicional
+Controle de acesso baseado em risco
+🛡️ Identity Protection
+Detecção de login suspeito
+Mitigação de ataques de credential stuffing e brute force
+Proteção baseada em risco (risk-based authentication)
+☁️ Zero Trust Security Model
+Princípio de “never trust, always verify”
+Acesso baseado em contexto e identidade
+Segmentação de acesso a recursos críticos
+🛠️ Ferramentas e Tecnologias
+Microsoft Entra ID
+Microsoft Defender for Identity (quando aplicável)
+Microsoft Sentinel (correlação de logs de login)
+Azure Active Directory logs
+KQL (Kusto Query Language)
+Conditional Access Policies
+MFA / Security Defaults
