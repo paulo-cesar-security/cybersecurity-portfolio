@@ -1,20 +1,21 @@
-🛡️ Cybersecurity Portfolio
+# 🛡️ Cybersecurity Portfolio
 
 Portfólio profissional focado em Cibersegurança, com projetos práticos que abrangem Detecção e Resposta a Incidentes, Análise de Logs, Threat Hunting, além de competências complementares em OSINT (Open Source Intelligence) e Forense Digital.
 
 Os projetos simulam cenários reais enfrentados por equipes de segurança (SOC), aplicando metodologias e ferramentas amplamente utilizadas no mercado para identificação de ameaças, investigação de incidentes e análise de evidências digitais.
 
-📂 Projetos
+# 📂 Projetos
+
 🔐 Análise de Logs & Detecção de Ameaças
 Análise e correlação de logs para identificação de atividades suspeitas e possíveis comprometimentos em ambientes corporativos.
 
 Investigação de acessos e comportamentos anômalos no Microsoft Entra ID
 
-Utilização do Splunk (SIEM/CIEM) para detecção de ameaças
+Utilização do do Microsoft sentinel e Splunk (SIEM) para detecção de ameaças
 
 Aplicação de técnicas de threat hunting e análise comportamental
 
-🌐 Investigação OSINT (Open Source Intelligence)
+# 🌐 Investigação OSINT (Open Source Intelligence)
 Coleta, correlação e análise de dados provenientes de fontes públicas com foco em apoio a investigações de segurança.
 
 Identificação de padrões, relacionamentos e exposição de informações
@@ -23,7 +24,7 @@ Mapeamento de presença digital e footprint
 
 Apoio à análise de riscos e inteligência de ameaças
 
-🧪 Análise Forense Digital
+# 🧪 Análise Forense Digital
 Exame técnico de evidências digitais com foco em integridade, autenticidade e identificação de indícios de comprometimento.
 
 🔍 Análise forense de imagens (metadados, manipulações e integridade)
