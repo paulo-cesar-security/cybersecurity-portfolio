@@ -1,1 +1,49 @@
+🚨 Incident Response (IR) Portfolio
 
+Este repositório reúne meus projetos e estudos práticos em Incident Response (Resposta a Incidentes), com foco na detecção, investigação, contenção e análise de incidentes de segurança em ambientes corporativos.
+
+🎯 Objetivo
+
+Demonstrar habilidades em:
+
+Identificação e análise de incidentes de segurança
+Investigação forense básica em logs e eventos
+Contenção e mitigação de ameaças
+Correlação de eventos em SIEM
+Classificação de severidade de incidentes
+Documentação técnica e pós-incidente (post-mortem)
+🧭 Ciclo de Incident Response
+
+Todos os projetos seguem o ciclo padrão da indústria:
+
+1. 🛑 Identificação (Detection & Analysis)
+Monitoramento de alertas de segurança
+Análise de logs (endpoint, rede, autenticação)
+Identificação de comportamento anômalo
+2. 🧪 Investigação
+Correlação de eventos suspeitos
+Validação de falso positivo vs incidente real
+Análise de linha do tempo (timeline)
+3. 🔒 Contenção
+Isolamento de máquina ou usuário comprometido
+Bloqueio de IPs, contas ou processos suspeitos
+Redução do impacto do incidente
+4. 🧹 Erradicação
+Remoção de artefatos maliciosos
+Correção de vulnerabilidades exploradas
+5. 🔄 Recuperação
+Restauração de sistemas afetados
+Monitoramento pós-incidente
+6. 📑 Lições Aprendidas
+Documentação do incidente
+Melhoria de controles de segurança
+Ajuste de detecções no SIEM
+🧰 Ferramentas Utilizadas
+Microsoft Sentinel
+Microsoft Defender for Endpoint
+Splunk
+Wazuh
+Wireshark
+Sysmon
+PowerShell / KQL / SPL
+MITRE ATT&CK Framework
