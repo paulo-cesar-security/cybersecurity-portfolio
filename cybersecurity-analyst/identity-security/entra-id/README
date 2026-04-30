@@ -1,1 +1,42 @@
+🆔 Microsoft Entra ID Projects Portfolio
 
+Este repositório contém meus projetos práticos focados em Microsoft Entra ID, com ênfase em administração de identidades, segurança de acesso, autenticação moderna e aplicação de políticas de Zero Trust em ambientes corporativos simulados.
+
+🎯 Objetivo
+
+Demonstrar habilidades em:
+
+Administração e configuração do Microsoft Entra ID
+Gestão de identidades (users, groups, roles)
+Implementação de autenticação segura (MFA e métodos modernos)
+Aplicação de políticas de acesso condicional
+Proteção de identidades contra ameaças baseadas em credenciais
+Monitoramento de eventos de login e atividades suspeitas
+🧭 Escopo dos Projetos
+
+Os projetos deste repositório abordam cenários reais de segurança de identidade:
+
+🆔 Identity Lifecycle Management
+Criação e gerenciamento de usuários
+Organização de grupos e permissões
+Controle de acesso baseado em funções (RBAC)
+🔐 Authentication Security
+Configuração de MFA (Multi-Factor Authentication)
+Métodos de autenticação modernos (passwordless, authenticator app)
+Políticas de segurança de login
+🛡️ Conditional Access
+Políticas baseadas em risco
+Restrições por localização, dispositivo e usuário
+Controle de acesso a aplicações sensíveis
+📊 Identity Monitoring
+Análise de logs de sign-in
+Detecção de logins suspeitos
+Investigação de tentativas de acesso anômalas
+🛠️ Ferramentas e Tecnologias
+Microsoft Entra ID
+Azure Active Directory (logs e auditoria)
+Microsoft Defender for Identity (quando aplicável)
+Microsoft Sentinel (correlação de eventos)
+Kusto Query Language (KQL)
+Conditional Access Policies
+MFA / Security Defaults
