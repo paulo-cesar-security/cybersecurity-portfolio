@@ -1,1 +1,32 @@
+🛡️ Endpoint Security Portfolio
 
+Este repositório reúne meus projetos e estudos práticos em Endpoint Security, com foco na proteção, detecção e resposta a ameaças em dispositivos finais (endpoints), como estações de trabalho e servidores.
+
+🎯 Objetivo
+
+Demonstrar habilidades em:
+
+Proteção de endpoints contra ameaças avançadas
+Detecção e resposta a incidentes (EDR/XDR)
+Análise de comportamento malicioso em sistemas
+Investigação de alertas de segurança
+Hardening de sistemas operacionais
+Monitoramento contínuo de atividades suspeitas
+🧭 Escopo de Segurança de Endpoint
+
+Os projetos abordam diferentes aspectos da segurança em endpoints:
+
+🖥️ Monitoramento de processos e atividades suspeitas
+🦠 Detecção de malware e comportamentos anômalos
+🔐 Controle de privilégios e acesso
+📊 Telemetria de segurança e análise de eventos
+🧪 Simulação de ataques em ambientes controlados
+🔄 Resposta a incidentes em endpoints
+🛠️ Ferramentas e Tecnologias
+Microsoft Defender for Endpoint
+Sysmon
+Windows Event Logs
+Microsoft Sentinel (integração e correlação)
+PowerShell
+Wazuh
+MITRE ATT&CK Framework
