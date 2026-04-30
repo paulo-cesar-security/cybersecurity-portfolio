@@ -1,1 +1,43 @@
+🛡️ Microsoft Defender Projects Portfolio
 
+Este repositório contém meus projetos práticos focados em Microsoft Defender, com ênfase em detecção de ameaças, investigação de incidentes, análise de endpoints e resposta a ataques em ambientes corporativos simulados.
+
+🎯 Objetivo
+
+Demonstrar habilidades em:
+
+Monitoramento e investigação de alertas de segurança
+Análise de ameaças em endpoints (EDR/XDR)
+Detecção de comportamento malicioso
+Resposta a incidentes com Microsoft Defender
+Correlação de eventos de segurança
+Aplicação de inteligência de ameaças (Threat Intelligence)
+🧭 Escopo dos Projetos
+
+Os projetos abordam cenários reais de segurança utilizando o ecossistema Microsoft Defender:
+
+🖥️ Endpoint Detection & Response (EDR)
+Detecção de atividades suspeitas em endpoints
+Análise de processos maliciosos
+Investigação de persistência e execução de malware
+🚨 Alert & Incident Investigation
+Análise de alertas gerados pelo Microsoft Defender
+Triagem e classificação de incidentes
+Investigação de cadeia de ataque (attack chain)
+🧠 Threat Hunting
+Busca proativa por comportamentos suspeitos
+Identificação de padrões anômalos
+Uso de hipóteses para detecção de ameaças
+🔗 Threat Intelligence
+Análise de indicadores de comprometimento (IOCs)
+Correlação com campanhas de ataque conhecidas
+Mapeamento com MITRE ATT&CK
+🛠️ Ferramentas e Tecnologias
+Microsoft Defender for Endpoint
+Microsoft Defender for Identity (quando aplicável)
+Microsoft Defender for Cloud Apps
+Microsoft Sentinel (correlação e investigação)
+Sysmon (telemetria de endpoints)
+PowerShell
+Kusto Query Language (KQL)
+MITRE ATT&CK Framework
