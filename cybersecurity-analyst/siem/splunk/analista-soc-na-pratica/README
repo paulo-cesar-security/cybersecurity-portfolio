@@ -1,0 +1,41 @@
+🛡️ SOC Alert Triage & Incident Analysis (TryHackMe Lab)
+
+Este projeto demonstra a execução prática do ciclo completo de análise em um ambiente de Security Operations Center (SOC), utilizando cenários simulados baseados em eventos reais de segurança.
+
+O laboratório foi conduzido com foco em detecção, investigação e resposta a incidentes, aplicando conceitos fundamentais de análise em SIEM.
+
+🎯 Objetivo
+
+Realizar a triagem e investigação de alertas de segurança, correlacionando múltiplas fontes de dados para identificar atividades maliciosas, classificar corretamente os eventos e tomar decisões de resposta adequadas.
+
+🧠 Atividades Realizadas
+Análise de alertas provenientes de diferentes fontes (Email e Firewall)
+Correlação de eventos utilizando SIEM (Splunk)
+Identificação de campanhas de phishing e tentativa de acesso a URLs maliciosas
+Diferenciação entre True Positive (TP) e False Positive (FP)
+Avaliação de impacto e decisão de escalonamento de incidentes
+Elaboração de relatórios técnicos alinhados às boas práticas de SOC
+🔍 Cenários Investigados
+Phishing com domínio legítimo (False Positive validado via contexto organizacional)
+Phishing com domínio malicioso (True Positive)
+Phishing com interação do usuário e acesso permitido (incidente crítico escalado)
+Tentativas de acesso a URLs maliciosas bloqueadas por firewall
+🛠️ Ferramentas e Tecnologias
+Splunk Enterprise (análise de logs e correlação)
+Simulação de SOC Dashboard (TryHackMe)
+Logs de Email e Firewall
+📊 Principais Aprendizados
+Importância da correlação entre múltiplas fontes de dados
+Validação de alertas antes da tomada de decisão
+Diferença entre tentativa e comprometimento real
+Priorização baseada em severidade e impacto
+Construção de relatórios claros e objetivos para resposta a incidentes
+📁 Documentação Completa
+
+📌 Todo o processo detalhado de investigação, queries utilizadas, análise técnica e relatórios completos estão disponíveis na pasta:
+
+👉 /anexos
+
+🚀 Conclusão
+
+Este projeto demonstra a aplicação prática de habilidades essenciais de um analista SOC, incluindo investigação orientada a evidências, pensamento crítico, correlação de eventos e resposta a incidentes, seguindo fluxos operacionais utilizados no mercado.
