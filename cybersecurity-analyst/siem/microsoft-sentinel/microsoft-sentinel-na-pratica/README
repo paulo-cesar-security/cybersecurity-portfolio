@@ -1,0 +1,100 @@
+🛡️ SOC Analysis with Microsoft Sentinel
+
+Este projeto demonstra a execução completa do processo de triagem e investigação de alertas em um ambiente SOC, utilizando o Microsoft Sentinel como SIEM principal.
+
+O laboratório simula cenários reais de segurança, onde alertas são analisados, correlacionados e classificados com base em evidências coletadas de múltiplas fontes de dados.
+
+📁 Observação: A documentação completa das investigações (incluindo relatórios detalhados) está disponível na pasta /anexos.
+
+🎯 Objetivos do Projeto
+Realizar triagem de alertas de segurança (Alert Triage)
+Investigar eventos utilizando consultas KQL no SIEM
+Correlacionar múltiplas fontes de dados (Email / Firewall)
+Identificar ataques reais (Phishing)
+Diferenciar True Positive vs False Positive
+Tomar decisões de escalonamento
+Produzir relatórios técnicos profissionais
+🧰 Tecnologias Utilizadas
+🧠 Microsoft Sentinel (SIEM)
+🔎 KQL (Kusto Query Language)
+🖥️ Windows PowerShell (análise complementar)
+🌐 VirusTotal (validação de IOC)
+🔬 Wireshark (conceito de análise de rede)
+🧠 Metodologia Aplicada (SOC Workflow)
+1. 🔎 Initial Alert Review
+Análise da descrição do alerta
+Identificação de indicadores (IP, URL, domínio)
+Entendimento da lógica da regra
+2. 🧪 Investigação no SIEM
+
+Exemplo de consulta KQL utilizada:
+
+tbl050243341_CL
+| where content_s contains "phishing"
+
+Atividades realizadas:
+
+Busca por eventos relacionados
+Análise de timeline
+Identificação de padrões (campanhas)
+Correlação entre múltiplos alertas
+3. 🧠 Análise e Classificação
+
+Classificação baseada em evidências:
+
+✔ True Positive (TP)
+Ataques reais identificados (phishing, engenharia social)
+✔ False Positive (FP)
+Atividades legítimas (ex: onboarding corporativo)
+4. 🚨 Decisão de Escalonamento
+
+Critérios aplicados:
+
+Situação	Ação
+Ataque ativo / risco	Escalar
+Atividade bloqueada sem impacto	Não escalar
+Atividade legítima	Não escalar
+5. 📝 Relatórios
+
+Cada alerta foi documentado contendo:
+
+Entidades afetadas
+Justificativa da classificação
+Decisão de escalonamento
+Indicadores de ataque (IOC)
+Recomendações de mitigação
+🚨 Cenários Investigados
+🔴 True Positives
+Phishing com URL encurtada (bit.ly)
+Phishing com typosquatting (m1crosoftsupport.co)
+Campanhas de engenharia social
+🟢 False Positives
+Emails legítimos de onboarding (parceiro de RH)
+Reenvios automáticos de sistema
+🧠 Habilidades Demonstradas
+✔ Análise de alertas em ambiente SOC
+✔ Investigação com SIEM (Microsoft Sentinel)
+✔ Escrita de consultas KQL
+✔ Threat Hunting básico
+✔ Identificação de phishing e engenharia social
+✔ Correlação de eventos e análise de timeline
+✔ Tomada de decisão baseada em evidências
+✔ Produção de relatórios técnicos profissionais
+✔ Entendimento de limitações de logs e visibilidade
+⚠️ Desafios Enfrentados
+Limitação de logs (ausência de dados completos de firewall)
+Necessidade de tomar decisões sem evidência completa
+Diferenciação entre atividade legítima e maliciosa
+Uso de múltiplas fontes para validação
+🚀 Conclusão
+
+Este projeto demonstra a execução prática do ciclo completo de um analista SOC:
+
+✔ Investigação
+✔ Correlação de dados
+✔ Identificação de ameaças
+✔ Classificação de alertas
+✔ Decisão de escalonamento
+✔ Documentação profissional
+
+Documentação completa passo a passo de tudo o que foi feito você encontra no PDF na pasta anexos acima.
