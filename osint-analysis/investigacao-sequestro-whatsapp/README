@@ -1,0 +1,55 @@
+🔎 OSINT Investigation Portfolio – Phone Number Analysis
+
+Este projeto demonstra minha capacidade prática em OSINT (Open Source Intelligence) aplicada à investigação de um número telefônico suspeito de envolvimento em golpe de engenharia social e sequestro de conta no WhatsApp.
+
+A investigação foi conduzida utilizando técnicas de enumeração, pivoting, análise de presença digital, correlação de evidências e reconstrução pericial, partindo de informações mínimas:
+
+Número telefônico
+Relato da vítima
+Prints de mensagens
+🎯 Objetivo
+
+Identificar indícios técnicos que relacionassem o número investigado a atividades fraudulentas utilizando exclusivamente fontes abertas (OSINT).
+
+🛠 Ferramentas Utilizadas
+PhoneInfoga
+SpiderFoot
+Maltego
+Google Dorks
+Redes sociais
+Bancos públicos de denúncias
+🔍 Atividades Realizadas
+Validação e enumeração do número
+Busca reversa e pivoting
+Mapeamento de presença digital
+Identificação de perfis suspeitos
+Análise de suposta empresa vinculada
+Correlação com denúncias online
+Comparação do modus operandi com o relato da vítima
+Consolidação do raciocínio pericial
+🧠 Principais Descobertas
+
+Durante a investigação, identifiquei:
+
+Presença digital ativa associada ao número
+Perfis falsos em redes sociais
+Estruturas digitais simuladas
+Histórico de denúncias online
+Padrão compatível com golpes de engenharia social e Account Takeover (ATO)
+⚠ Limitações Técnicas
+
+A investigação OSINT não permite vincular formalmente o número a uma pessoa física sem acesso a dados de operadora ou ordem judicial.
+
+📌 Conclusão
+
+Os artefatos coletados e correlacionados indicam fortes indícios de utilização do número em atividades fraudulentas relacionadas a engenharia social e sequestro de contas no WhatsApp.
+
+Este laboratório reforçou minhas habilidades em:
+
+OSINT
+Investigação digital
+Análise de fraude
+Engenharia social
+Correlação de evidências
+Raciocínio pericial
+Cyber Threat Intelligence (CTI)
