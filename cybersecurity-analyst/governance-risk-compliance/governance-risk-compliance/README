@@ -1,0 +1,18 @@
+📋 Sobre o Projeto
+
+Este repositório apresenta um laboratório prático de Governance, Risk & Compliance (GRC) aplicado à cibersegurança, simulando a atuação de um analista responsável por fortalecer a governança de segurança da informação, identificar riscos cibernéticos e avaliar conformidade com normas e frameworks internacionais.
+
+Durante o projeto, foram realizadas atividades como inventário de ativos, análise de ameaças e vulnerabilidades, construção de matriz de riscos, avaliação de controles de segurança, análise de gaps de conformidade e desenvolvimento de políticas organizacionais.
+
+O laboratório foi estruturado com base em boas práticas utilizadas no mercado, incluindo:
+
+ISO/IEC 27001
+NIST Cybersecurity Framework
+NIST Risk Management Framework
+CIS Controls
+Lei Geral de Proteção de Dados
+MITRE ATT&CK
+
+O objetivo deste projeto é demonstrar experiência prática em governança de segurança, gestão de riscos, compliance e apoio à tomada de decisão baseada em risco em ambientes corporativos.
+
+Projeto completo está no arqui PDF na pasta /anexos
