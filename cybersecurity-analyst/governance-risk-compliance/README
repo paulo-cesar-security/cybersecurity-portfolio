@@ -39,6 +39,6 @@ MITRE ATT&CK (apoio à análise de ameaças)
 🧰 Ferramentas e Abordagens
 Excel / Google Sheets (Matriz de risco e inventário de ativos)
 Modelagem de risco (Risk Assessment)
-SIEM (Microsoft Sentinel, Splunk, Wazuh) para apoio de evidências
+SIEM (Microsoft Sentinel, Splunk) para apoio de evidências
 Documentação técnica e políticas organizacionais
 Análise de controles de segurança
