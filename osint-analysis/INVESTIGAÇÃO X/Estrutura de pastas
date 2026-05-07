@@ -1,10 +1,13 @@
-Estrutura de pastas (muito importante)
+# Estrutura de pastas (muito importante)
+
 Antes de começar, crio:
-/Investigacao_X - NOME QUE ME AJUDARÁ LEMBRAR DO CASO
- /Anexo
-  /Evidencias
-  /Prints
-  /Links
-  /Relatorio
+
+/investigacao_x - NOME QUE ME AJUDARÁ LEMBRAR DO CASO
+ /anexo
+  /evidencias
+  /prints
+  /links
+  /relatorio
+
 Organização desde o início evita caos depois.
 
