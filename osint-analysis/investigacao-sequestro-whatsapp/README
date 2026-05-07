@@ -27,29 +27,5 @@ Análise de suposta empresa vinculada
 Correlação com denúncias online
 Comparação do modus operandi com o relato da vítima
 Consolidação do raciocínio pericial
-🧠 Principais Descobertas
 
-Durante a investigação, identifiquei:
-
-Presença digital ativa associada ao número
-Perfis falsos em redes sociais
-Estruturas digitais simuladas
-Histórico de denúncias online
-Padrão compatível com golpes de engenharia social e Account Takeover (ATO)
-⚠ Limitações Técnicas
-
-A investigação OSINT não permite vincular formalmente o número a uma pessoa física sem acesso a dados de operadora ou ordem judicial.
-
-📌 Conclusão
-
-Os artefatos coletados e correlacionados indicam fortes indícios de utilização do número em atividades fraudulentas relacionadas a engenharia social e sequestro de contas no WhatsApp.
-
-Este laboratório reforçou minhas habilidades em:
-
-OSINT
-Investigação digital
-Análise de fraude
-Engenharia social
-Correlação de evidências
-Raciocínio pericial
-Cyber Threat Intelligence (CTI)
+A documentação completa da investigação pode ser acessada na pasta /anexos
