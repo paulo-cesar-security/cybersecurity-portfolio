@@ -4,7 +4,7 @@ Portfólio profissional focado em Cibersegurança, com projetos práticos que ab
 
 Os projetos simulam cenários reais enfrentados por equipes de segurança (SOC), aplicando metodologias e ferramentas amplamente utilizadas no mercado para identificação de ameaças, investigação de incidentes e análise de evidências digitais.
 
-# 📂 Projetos
+## 📂 Projetos
 
 🔐 Análise de Logs & Detecção de Ameaças
 Análise e correlação de logs para identificação de atividades suspeitas e possíveis comprometimentos em ambientes corporativos.
@@ -15,7 +15,7 @@ Utilização do do Microsoft sentinel e Splunk (SIEM) para detecção de ameaça
 
 Aplicação de técnicas de threat hunting e análise comportamental
 
-# 🌐 Investigação OSINT (Open Source Intelligence)
+## 🌐 Investigação OSINT (Open Source Intelligence)
 Coleta, correlação e análise de dados provenientes de fontes públicas com foco em apoio a investigações de segurança.
 
 Identificação de padrões, relacionamentos e exposição de informações
@@ -24,7 +24,7 @@ Mapeamento de presença digital e footprint
 
 Apoio à análise de riscos e inteligência de ameaças
 
-# 🧪 Análise Forense Digital
+## 🧪 Análise Forense Digital
 Exame técnico de evidências digitais com foco em integridade, autenticidade e identificação de indícios de comprometimento.
 
 🔍 Análise forense de imagens (metadados, manipulações e integridade)
@@ -44,7 +44,7 @@ Organização de achados técnicos para tomada de decisão
 
 Comunicação profissional alinhada a ambientes corporativos
 
-# 🎯 Objetivo
+### 🎯 Objetivo
 
 Demonstrar competências práticas em Cibersegurança, com foco em:
 
