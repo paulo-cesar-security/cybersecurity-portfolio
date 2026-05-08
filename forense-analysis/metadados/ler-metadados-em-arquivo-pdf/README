@@ -1,1 +1,8 @@
+Ler metadados de um arquivo PDF
+
+Nesse cenário fui contratado para descobrir uma única coisa, qua o nome do autor de um roubo que aconteceu na empresa. A empresa não tem nenhuma informação. 
+Um arquivo em PDF foi recuperado através do Autopsy. Com esse arquivo em mãos irei investigar o nome do autor através dos metadados, para isso usarei o programa Pdfinfo. 
+O Pdfinfo exibe vários metadados relacionados a um arquivo PDF, como título, assunto, autor, criador e data de criação etc. 
+
+O resultado está na pasta /anexos
 
