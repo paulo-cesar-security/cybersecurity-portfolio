@@ -7,22 +7,13 @@ Coleção de projetos práticos simulando atividades de um analista de seguranç
 Demonstrar habilidades em:
 - Análise de logs
 - Investigação de incidentes
-- Uso de SIEM (Splunk)
+- Uso de SIEM (Microsoft Sentinel e Splunk)
 - Segurança em ambiente Microsoft (Entra ID / M365)
-
-## 📂 Estrutura
-
-### 🧪 Attack & Defense Lab
-Simulação prática de ataque e defesa em ambiente controlado.
-
-### 📊 SIEM - Splunk
-Projetos de análise e investigação utilizando logs reais/simulados.
+- Pentest.
+Projetos de segurança ofensiva.
 
 ## 🧠 Competências demonstradas
 - Threat Detection
 - Incident Response
 - Log Analysis
 - Cloud Security (Entra ID)
-
-A análise detalhada, queries utilizadas e investigação completa estão disponíveis no PDF anexado neste repositório:
-https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/cybersecurity-analyst/anexos
