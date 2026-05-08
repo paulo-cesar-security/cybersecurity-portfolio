@@ -1,0 +1,124 @@
+# Etapas de uma investigação
+
+1. Definir o OBJETIVO (isso vem antes de tudo)
+Sem isso, sua investigação vira bagunça.
+Pergunte:
+O que eu quero descobrir exatamente?
+
+Exemplo:
+
+“Quem está por trás desse email?”
+
+“Esse site é golpe?”
+
+“Esse perfil é falso?”
+
+Isso é o início do Ciclo de Inteligência, usado por organizações como a NATO.
+
+2. Definir o PONTO DE PARTIDA (Seed)
+Você precisa de um dado inicial:
+Exemplos:
+Email
+
+Número de telefone
+
+Nome
+
+Username
+
+Site
+
+Esse é o seu “gatilho” de investigação.
+
+3. Começar a COLETA (fase prática)
+Agora sim você começa a buscar.
+Regra de ouro:
+Tudo que encontrar, já registra na planilha com ID
+Exemplo:
+Encontrou um email → cria E001
+
+Encontrou um nome → cria P001
+
+Encontrou um perfil → cria U001
+
+4. Fazer PIVOTING (o coração do OSINT)
+Aqui você evolui a investigação:
+Exemplo real:
+Email → acha LinkedIn
+
+LinkedIn → acha empresa
+
+Empresa → acha site
+
+Site → acha outro email
+
+Cada descoberta vira um novo ID + nova busca
+
+5. Criar RELACIONAMENTOS
+Não basta coletar — você precisa conectar:
+Email → pertence a → Pessoa
+
+Pessoa → trabalha em → Empresa
+
+Empresa → possui → Site
+
+Isso transforma dados em inteligência.
+
+6. Avaliar CONFIABILIDADE (muito ignorado)
+Para cada informação, defina:
+Alta → fonte confiável (ex: site oficial)
+
+
+Média → rede social
+
+Baixa → informação não confirmada
+
+Profissionais fazem isso sempre.
+
+7. Guardar EVIDÊNCIAS
+Sempre:
+Salve o link
+
+Tire print
+
+Registre data
+
+Isso evita perder prova (muito importante em golpes)
+
+8. Organizar enquanto investiga (não depois!)
+Use sua estrutura:
+Entidades
+
+Relacionamentos
+
+Evidências
+
+Não deixe pra organizar no final — isso quebra iniciantes.
+
+9. Análise (aqui vira inteligência)
+Agora você responde o objetivo inicial:
+Quem é a pessoa?
+
+Existe fraude?
+
+Há ligação entre os dados?
+
+Aqui você “fecha o caso”.
+
+10. Criar um RELATÓRIO (nível profissional)
+Estrutura simples:
+Objetivo
+
+Dados coletados
+
+Relações encontradas
+
+Evidências
+
+Conclusão
+
+
+
+
+
+
