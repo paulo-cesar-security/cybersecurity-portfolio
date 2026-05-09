@@ -1,1 +1,5 @@
+Realizei uma investigação OSINT passiva na empresa fictícia TechNova Solutions utilizando exclusivamente técnicas de Google Dorking. Durante a análise, utilizei operadores avançados de busca do Google para identificar páginas indexadas, possíveis subdomínios, documentos públicos, áreas administrativas, arquivos de backup, padrões de e-mails corporativos e indícios das tecnologias utilizadas pela organização.
 
+A investigação foi conduzida sem qualquer interação ativa com os sistemas da empresa, mantendo o processo totalmente passivo e dentro do escopo de coleta de informações públicas. Também deixei documentado que validações técnicas mais aprofundadas, como enumeração de serviços, análise de infraestrutura e confirmação de vulnerabilidades, dependeriam de outras ferramentas e técnicas complementares de OSINT.
+
+A laborátório completo com o relatório pode ser visualizado na pasta /anexos acima.
