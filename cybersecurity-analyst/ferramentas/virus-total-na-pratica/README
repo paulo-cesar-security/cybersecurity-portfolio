@@ -1,0 +1,7 @@
+Usando o VirusTotal para confirmar atividade maliciosa.
+
+Cenário:
+Em um dia de trabalho no Centro de operações de segurança (SOC) recebo um alerta de um e-mail suspeito recebido de um remetente externo com um domínio de nível superior incomum. 
+Nota do SOC Lead: Esta regra de detecção ainda precisa de ajuste fino.
+
+Resultado completo está na pasta anexos acima.
