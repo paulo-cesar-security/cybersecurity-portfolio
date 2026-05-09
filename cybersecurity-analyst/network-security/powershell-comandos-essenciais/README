@@ -1,0 +1,118 @@
+PowerShell na prática - Comandos essenciais para cibersegurança.
+
+1. Identificação do sistema
+systeminfo
+hostname
+whoami
+
+Uso SOC:
+identificar host comprometido
+verificar versão (exploração conhecida, vulnerabilidades)
+
+2. Navegação e arquivos
+Get-ChildItem
+Get-Location
+Get-ChildItem -Force
+Uso:
+investigar diretórios suspeitos:
+C:\Temp
+C:\Users\Public
+AppData
+
+3. Análise de arquivos
+PowerShell
+Get-Content → ler arquivos
+Get-FileHash → hash (SHA256, MD5)
+Get-Item → info do arquivo
+Uso:
+analisar scripts maliciosos
+validar hash de malware
+
+4. Busca e filtragem (CRUCIAL)
+PowerShell
+Select-String "texto" → equivalente ao grep
+Get-ChildItem -Recurse → busca recursiva
+Uso SOC:
+caçar IOCs
+buscar comandos suspeitos em scripts/logs
+
+5. Processos
+PowerShell
+Get-Process
+Stop-Process -Id 1234
+Uso:
+detectar malware rodando
+identificar processos com nomes estranhos
+
+6. Rede (ESSENCIAL)
+PowerShell
+Get-NetTCPConnection
+Test-NetConnection
+Uso SOC:
+identificar comunicação com C2
+mapear portas abertas
+
+7. Relacionar processo com rede
+netstat -ano → pega PID
+tasklist | findstr PID → identifica processo
+Uso:
+descobrir qual processo está falando com IP suspeito
+
+8. Usuários e login
+PowerShell
+Get-LocalUser
+Uso:
+detectar contas criadas por atacante
+verificar privilégios
+
+9. Permissões
+PowerShell
+Get-Acl
+Uso:
+detectar arquivos com acesso indevido
+
+10. Logs (MUITO IMPORTANTE)
+
+PowerShell (principal)
+Get-EventLog
+Get-WinEvent → mais poderoso
+Uso SOC:
+investigar:
+login suspeito
+execução de processos
+falhas de autenticação
+
+11. Persistência
+PowerShell
+Get-ScheduledTask
+Uso:
+detectar malware persistente
+
+12. Serviços
+PowerShell
+Get-Service
+Uso:
+identificar serviços maliciosos rodando
+
+13. Registro do Windows (REGISTRY)
+PowerShell
+Get-ItemProperty
+Uso SOC:
+detectar persistência:
+Run keys
+startup automático
+
+14. Programas instalados
+PowerShell
+Get-WmiObject -Class Win32_Product
+Uso:
+identificar softwares suspeitos
+
+15. Histórico e ambiente
+PowerShell
+Get-History → histórico comandos
+Get-Environment (gci env:) → variáveis
+
+
+
+
