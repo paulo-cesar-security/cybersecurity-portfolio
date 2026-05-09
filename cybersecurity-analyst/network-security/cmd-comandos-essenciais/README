@@ -1,0 +1,110 @@
+CMD - Comandos Essenciais usados para Cibersegurança.
+
+1. Identificação do sistema
+whoami → usuário atual
+hostname → nome da máquina
+systeminfo → detalhes completos do sistema
+echo %username% → usuário logado
+
+Uso SOC:
+identificar host comprometido
+verificar versão (exploração conhecida, vulnerabilidades)
+
+2. Navegação e arquivos
+dir → listar arquivos
+cd → navegar
+copy, move, del → manipular arquivos
+
+
+
+Uso:
+investigar diretórios suspeitos:
+C:\Temp
+C:\Users\Public
+AppData
+
+3. Análise de arquivos
+type arquivo.txt → exibir conteúdo
+Uso:
+analisar scripts maliciosos
+validar hash de malware
+
+4. Busca e filtragem
+findstr "texto" arquivo → buscar string
+Uso SOC:
+caçar IOCs
+buscar comandos suspeitos em scripts/logs
+
+5. Processos
+tasklist → lista processos
+taskkill /PID 1234 /F → matar processo
+
+Uso:
+detectar malware rodando
+identificar processos com nomes estranhos
+
+6. Rede (ESSENCIAL)
+netstat -ano → conexões + PID
+ipconfig /all → info de rede
+ping → teste de conectividade
+Uso SOC:
+identificar comunicação com C2
+mapear portas abertas
+
+7. Relacionar processo com rede
+netstat -ano → pega PID
+tasklist | findstr PID → identifica processo
+Uso:
+descobrir qual processo está falando com IP suspeito
+
+8. Usuários e login
+CMD
+net user → lista usuários
+net user usuario → detalhes
+query user → sessões ativas
+
+Uso:
+detectar contas criadas por atacante
+verificar privilégios
+
+
+9. Permissões
+icacls arquivo → permissões
+Uso:
+detectar arquivos com acesso indevido
+
+10. Logs (MUITO IMPORTANTE)
+wevtutil qe System → logs do sistema
+Uso SOC:
+investigar:
+login suspeito
+execução de processos
+falhas de autenticação
+
+11. Persistência
+schtasks → tarefas agendadas
+Uso:
+detectar malware persistente
+
+12. Serviços
+sc query → serviços
+Uso:
+identificar serviços maliciosos rodando
+
+13. Registro do Windows (REGISTRY)
+reg query → consultar registro
+Uso SOC:
+detectar persistência:
+Run keys
+startup automático
+
+14. Programas instalados
+wmic product get name
+Uso:
+identificar softwares suspeitos
+
+15. Histórico e ambiente
+Get-History → histórico comandos
+Get-Environment (gci env:) → variáveis
+
+
