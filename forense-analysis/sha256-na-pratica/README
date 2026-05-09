@@ -1,0 +1,7 @@
+Laboratório — Geração de Hash para Análise Forense
+Cenário
+Fui contratado por um advogado para realizar uma análise inicial em um arquivo digital que poderia ser utilizado como evidência em um processo judicial.
+O principal objetivo desta etapa era garantir a integridade do arquivo antes de qualquer análise posterior, utilizando técnicas básicas de computação forense.
+Para isso, realizei a geração de um hash criptográfico do arquivo, criando uma “impressão digital” única capaz de comprovar que o conteúdo não foi alterado durante o processo de investigação.
+
+Resultado do procedimento na pasta anexos acima.
