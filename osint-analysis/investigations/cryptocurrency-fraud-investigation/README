@@ -1,0 +1,25 @@
+Laboratório OSINT — Investigação de Fraude com Criptomoedas Ethereum
+
+Cenário
+Fui contratado por uma pequena empresa de investimentos para investigar uma possível fraude envolvendo transferências em Ethereum.
+ Um dos clientes relatou que enviou cerca de 3 ETH para uma suposta corretora chamada “Future Crypto Invest”, após contato realizado pelo Telegram.
+Depois do pagamento:
+O suporte desapareceu;
+O site saiu do ar;
+O número de telefone foi desativado;
+O cliente perdeu acesso ao “painel de investimentos”.
+Meu objetivo era utilizar apenas técnicas OSINT para:
+Identificar os responsáveis;
+Rastrear movimentações da carteira Ethereum;
+Correlacionar infraestrutura utilizada;
+Levantar indicadores de fraude.
+Objetivo da Investigação
+Durante a análise, defini os seguintes objetivos:
+Identificar a carteira Ethereum utilizada no golpe;
+Verificar movimentações financeiras;
+Descobrir possíveis conexões com outras carteiras;
+Identificar domínios e infraestrutura relacionados;
+Correlacionar redes sociais utilizadas;
+Produzir indicadores úteis para um relatório pericial.
+
+Os resultados desse laboratório, podem ser acessados na pasta /anexos acima.
