@@ -1,0 +1,17 @@
+Laboratório SOC Analyst N1 — Investigação de PowerShell Suspeito
+
+Cenário
+
+Sou analista SOC Nível 1 da empresa fictícia BlueFinance.
+Durante meu turno, o SIEM gerou um alerta relacionado à execução suspeita de PowerShell em uma máquina de usuário.
+O alerta chamou atenção porque o comando estava:
+codificado em Base64
+usando parâmetro -EncodedCommand
+executado via PowerShell oculto
+Meu objetivo era descobrir:
+se era atividade legítima
+o que o comando fazia
+se houve comprometimento
+quais IOC precisavam ser escalados
+
+O resultado completo do laboratório pode ser acessado na pasta /anexos acima.
