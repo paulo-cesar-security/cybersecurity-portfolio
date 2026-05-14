@@ -8,7 +8,7 @@ Os projetos simulam cenários reais enfrentados por equipes de segurança (SOC),
 
 ## Pentest - [Acessar](https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/cybersecurity-analyst/pentest)
 
-## 🌐 Investigação OSINT (Open Source Intelligence) - [Acessar](https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/osint-analysis)
+## 🌐 OSINT - [Acessar](https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/osint-analysis)
 
-## 🧪 Análise Forense Digital
+## 🧪 Forense - [Acessar](https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/forense-analysis)
 
