@@ -6,7 +6,7 @@ Os projetos simulam cenários reais enfrentados por equipes de segurança (SOC),
 
 ## SIEM na prática - [Acessar](https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/cybersecurity-analyst/siem)
 
-## Pentest
+## Pentest - [Acessar](https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/cybersecurity-analyst/pentest)
 
 ## 🌐 Investigação OSINT (Open Source Intelligence) - [Acessar](https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/osint-analysis)
 
