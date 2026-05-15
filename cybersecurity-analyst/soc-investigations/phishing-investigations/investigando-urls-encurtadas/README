@@ -1,0 +1,6 @@
+Investigar URLs encurtadas
+Cenário
+
+Um email foi enviado para empresa X com características de phishing. Analisando o código fonte do email percebi que o link está com um a url encurtada. Para investigar, irei usar a ferramenta WhereGoes que é ótima para descobrir o destino sem precisar acessar.
+
+O resultado desse laboratório pode ser acesso na pasta /anexos acima.
