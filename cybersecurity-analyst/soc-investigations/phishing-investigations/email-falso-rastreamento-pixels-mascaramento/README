@@ -1,0 +1,4 @@
+Phishing - Endereço de email falso, rastreamento por pixels e mascaramento de destino
+Irei analisar um email que simula uma notificação formal de envio para enganar os destinatários e criar uma sensação de urgência. Ao analisar esta amostra, foi descoberto como os atacantes usam endereços falsificados, manipulação de links e pixels de rastreamento para comprometer os usuários. Também irei examinar o código-fonte bruto para entender por que os provedores de e-mail sinalizaram esses problemas específicos. 
+
+O resultado desse laboratório pode aser acessado na pasta /anexos acima.
