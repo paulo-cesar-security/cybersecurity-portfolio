@@ -1,0 +1,8 @@
+Analisando logs de ataques Web com o wireshark
+
+Investigação 
+
+O BankX, uma pequena plataforma de banco online, sofreu uma violação de segurança. Cibercrimonosos invadiram o sistema e vazaram dados confidenciais de clientes em um fórum da darkweb. A administração acredita que a intrusão começou pelo site público da empresa, e cabe a mim descobrir exatamente como isso aconteceu. 
+Minha missão é analisar os logs usando o wireshark e refazer os passos do invasor para revelar como a violação ocorreu. O arquivo que me foi passado foi: traffic.pcap.
+
+O Resultado desse laboratório, pode ser acessado na pasta /anexos acima.
