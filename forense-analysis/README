@@ -46,22 +46,9 @@ Produção de relatórios técnicos detalhados
 Identificação de atividades suspeitas ou maliciosas
 Recuperação de evidências relevantes para investigação
 Apoio à tomada de decisão em contextos legais ou corporativos
-⚠️ Observações
-
-Este portfólio tem caráter educacional e demonstrativo, com foco em boas práticas de forense digital e análise de evidências.
-
-🚀 Competências Demonstradas
-Forense Computacional
-Análise de Artefatos Digitais
-Recuperação de Dados
-Investigação de Incidentes
-Cadeia de Custódia
-Documentação Pericial
-📬 Contato
-
-Aberto para networking e oportunidades na área de Segurança da Informação e Forense Digital.
 
 ---
+
 ## Acessar outros projetos:
 
 ## 📊🚨 SOC analysis 
@@ -69,14 +56,14 @@ Aberto para networking e oportunidades na área de Segurança da Informação e 
 Projetos práticos utilizando SIEM Microsoft Sentinel e Splunk, Microsoft Entra ID, Microsoft Defender, Wireshark, Nmap e várias outras ferramentas, com foco em detecção de ataques, análise de logs, threat hunting e resposta a incidentes.
 Inclui simulações de força bruta, password spraying, ataques à MFA, falhas em políticas de acesso e atividades pós-comprometimento:
 
-[Acessar](https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/cybersecurity-analyst)
+https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/cybersecurity-analyst
 
 ---
 
 ## 🔓🐞 Pentest 
 Projetos de Pentest focados na identificação de vulnerabilidades, análise de segurança e simulação de ataques controlados para fortalecer a proteção de sistemas e aplicações.
 
-[Acessar](https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/cybersecurity-analyst/pentest)
+https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/cybersecurity-analyst/pentest
 
 ---
 
@@ -84,4 +71,4 @@ Projetos de Pentest focados na identificação de vulnerabilidades, análise de 
 
 Projetos de Open Source Intelligence (OSINT) voltados à coleta e análise de informações em fontes abertas, com foco em identificação de perfis, rastreamento digital, correlação de dados e apoio a investigações de segurança:
  
-[Acessar](https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/osint-analysis)
+https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/osint-analysis
