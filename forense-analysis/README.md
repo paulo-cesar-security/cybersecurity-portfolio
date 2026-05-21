@@ -16,34 +16,34 @@ Demonstrar habilidades em:
 🧪 - Cenários Investigados
 🔐 - Roubo de Arquivos Confidenciais
 
-Investigação de possíveis exfiltrações de dados
-Identificação de arquivos acessados, copiados ou removidos
-Correlação de evidências para determinar autoria e intenção
+- Investigação de possíveis exfiltrações de dados
+- Identificação de arquivos acessados, copiados ou removidos
+- Correlação de evidências para determinar autoria e intenção
 
 - Recuperação de Dados Deletados
 - Recuperação de arquivos excluídos intencionalmente
 - Análise de artefatos remanescentes no sistema
 - Identificação de tentativas de ocultação de evidências
-- 🖼️ Análise de Imagens e Vídeos
+- Análise de Imagens e Vídeos
 - Detecção de edições e manipulações
 - Verificação de metadados (EXIF)
 - Identificação de inconsistências e possíveis fraudes digitais
   
 # 🛠️ Ferramentas Utilizadas
-🧰 Autopsy
-💾 FTK Imager
-🔎 Técnicas de análise de artefatos digitais
-📁 Estruturação de evidências forenses
-🔍 Metodologia
+- 🧰 Autopsy
+- 💾 FTK Imager
+- 🔎 Técnicas de análise de artefatos digitais
+- 📁 Estruturação de evidências forenses
+- 🔍 Metodologia
 
 # As investigações seguem um processo estruturado:
 
 📥 - Aquisição de evidências (imagens forenses)
-🔬 - Análise detalhada dos artefatos
-🔗 - Correlação de informações relevantes
-🧾 - Documentação das descobertas
-📄 - Elaboração de laudo técnico
-📄 - Resultados
+- 🔬 Análise detalhada dos artefatos
+- 🔗 Correlação de informações relevantes
+- 🧾 Documentação das descobertas
+- 📄 Elaboração de laudo técnico
+- 📄 Resultados
 
 - Produção de relatórios técnicos detalhados
 - Identificação de atividades suspeitas ou maliciosas
