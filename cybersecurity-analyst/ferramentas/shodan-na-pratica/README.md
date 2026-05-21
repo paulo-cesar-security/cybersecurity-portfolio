@@ -20,9 +20,11 @@ Sua tarefa como analista SOC é validar a exposição utilizando apenas o Shodan
 - Solicitação	Validar exposição externa
 - Investigação no Shodan
 
-# Acessei o Shodan e pesquisei:
+# Acessei o Shodan https://www.shodan.io e pesquisei:
 
 189.10.10.25
+
+![shodan](screenshots/shodan1.png)
 
 # Resultado Encontrado
 
