@@ -21,4 +21,4 @@ E usando o VirusTotal confirmo analisando várias informações sobre o arquivo 
 
 ### Conclusão
 
-Nessa laboratório utilizei duas ferramentas essenciais no dia a dia de um analista Soc para análise de malwares.
+Nesse laboratório utilizei duas ferramentas essenciais no dia a dia de um analista Soc para análise de malwares.
