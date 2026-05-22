@@ -3,8 +3,8 @@
 Sou um Analista SOC Nível 1 em turno e recebo um alerta indicando possível ataque através da criação de um novo usuário remoto em um servidor Ubuntu.
 Minha tarefa é analisar os logs usando o Splunk e determinar exatamente o que aconteceu no sistema.
 
-**1 - Qual foi o carimbo de data/hora da criação de conta de sistema remoto?**
-Para descobrir isso usei essa consulta: 
+**1 - Qual foi o carimbo de data/hora da criação de conta de sistema remoto?** <Br>
+Para descobrir isso usei essa consulta: <Br>
 **index=task5 source="auth.log" *su*
 | sort + _time**
 
@@ -13,14 +13,14 @@ Para descobrir isso usei essa consulta:
 **Resposta: 2025-08-12 09:52:57**
 
 **2 - Qual usuário escalou com sucesso seus privilégios para root antes da ação a partir da primeira pergunta?** <Br>
-Usando a mesma consulta acima confirmei essa informação:
+Usando a mesma consulta acima confirmei essa informação: <Br>
 
 ![](images/image2.png)
 
 **Resposta: jack-brown**
 
 **3 - A partir de qual endereço IP o usuário da pergunta anterior fez login com sucesso no sistema?** <Br>
-Para descobrir isso usei a consulta: 
+Para descobrir isso usei a consulta: <Br>
 **index=task5 source="auth.log" *ubuntu* process=sshd
 | search "Accepted password"**
 
@@ -29,7 +29,7 @@ Para descobrir isso usei a consulta:
 **Resposta: 10.14.94.82**
 
 **4 - Quantas tentativas de login fracassadas ocorreram antes desse login bem-sucedido?** <Br>
-Usei a seguinte consulta:
+Usei a seguinte consulta: <Br>
 **index=task5 source="auth.log"
 | search "Accepted password" OR "Failed password"**
 
@@ -38,7 +38,7 @@ Usei a seguinte consulta:
 **Resposta: 5**
 
 **5 - Qual porta é o mecanismo de persistência configurado para se conectar?** <Br>
-Usei essa pesquisa: 
+Usei essa pesquisa: <Br>
 **index=task5 sourcetype=syslog ("CRON" OR "cron")**
 
 ![](images/image5.png)
