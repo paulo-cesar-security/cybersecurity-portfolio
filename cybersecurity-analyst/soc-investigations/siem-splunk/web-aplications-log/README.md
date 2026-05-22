@@ -9,6 +9,7 @@ Sou um Analista SOC de Nível 1 em meu turno e recebi um alerta indicando um pic
 Iniciei com essa consulta: <br>
 **index="task6" e já apareceu:**
 
+![](images/image1.png)
 
 **Resposta: /wp-login.php** 
 
@@ -16,6 +17,7 @@ Iniciei com essa consulta: <br>
 
 Na mesma consulta identifiquei o IP:<br>
 
+![](images/image2.png)
 
 **Resposta: 10.10.243.134**
 
@@ -25,6 +27,8 @@ Na mesma consulta identifiquei o IP:<br>
 **Resposta: Pela quantidade de tentativas fica claro tratar-se de um clássico ataque de força bruta.**
 
 **4 - Qual ferramenta o invasor utilizou?** <br>
+
+![](images/image3.png)
 
 **Resposta: WPScan**
 
