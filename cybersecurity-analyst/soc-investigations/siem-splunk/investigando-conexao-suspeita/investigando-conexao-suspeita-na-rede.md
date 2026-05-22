@@ -10,7 +10,7 @@ Para iniciar usei a consulta: index=task4 EventCode=3 ComputerName=WIN-105 desti
 
 E o resultado foi: IP 10.10.114.80
 
-![][image1]
+![](/images/image2.png)
 
 **2 \- Qual processo iniciou essa conexão suspeita?**
 
