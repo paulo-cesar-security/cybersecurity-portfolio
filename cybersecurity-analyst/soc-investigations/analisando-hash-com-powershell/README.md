@@ -1,4 +1,4 @@
-## Analisando Hash de arquivo no PowerShell
+# Analisando Hash de arquivo no PowerShell
 
 ## Cenário
 
