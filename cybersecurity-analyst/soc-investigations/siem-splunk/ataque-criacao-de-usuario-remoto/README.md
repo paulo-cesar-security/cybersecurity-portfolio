@@ -12,14 +12,14 @@ Para descobrir isso usei essa consulta:
 
 **Resposta: 2025-08-12 09:52:57**
 
-**2 - Qual usuário escalou com sucesso seus privilégios para root antes da ação a partir da primeira pergunta?**
+**2 - Qual usuário escalou com sucesso seus privilégios para root antes da ação a partir da primeira pergunta?** <Br>
 Usando a mesma consulta acima confirmei essa informação:
 
 ![](images/image2.png)
 
 **Resposta: jack-brown**
 
-**3 - A partir de qual endereço IP o usuário da pergunta anterior fez login com sucesso no sistema?**
+**3 - A partir de qual endereço IP o usuário da pergunta anterior fez login com sucesso no sistema?** <Br>
 Para descobrir isso usei a consulta: 
 **index=task5 source="auth.log" *ubuntu* process=sshd
 | search "Accepted password"**
@@ -28,7 +28,7 @@ Para descobrir isso usei a consulta:
 
 **Resposta: 10.14.94.82**
 
-**4 - Quantas tentativas de login fracassadas ocorreram antes desse login bem-sucedido?**
+**4 - Quantas tentativas de login fracassadas ocorreram antes desse login bem-sucedido?** <Br>
 Usei a seguinte consulta:
 **index=task5 source="auth.log"
 | search "Accepted password" OR "Failed password"**
@@ -37,7 +37,7 @@ Usei a seguinte consulta:
 
 **Resposta: 5**
 
-**5 - Qual porta é o mecanismo de persistência configurado para se conectar?**
+**5 - Qual porta é o mecanismo de persistência configurado para se conectar?** <Br>
 Usei essa pesquisa: 
 **index=task5 sourcetype=syslog ("CRON" OR "cron")**
 
