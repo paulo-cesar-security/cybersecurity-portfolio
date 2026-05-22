@@ -9,7 +9,7 @@ Um arquivo suspeito com o nome de "payroll.pdf" está em uma pasta no Desktop. E
 Clicando com o botão direito verifiquei que a extensão é exe, por isso vou verificar o hash no PowerShell para depois analisar no VirusTotal e obter mais informações.
 
 O comando que usarei no PowerShell para obter o hash é: 
-### Get-Filehash -Algorithm SHA256 payroll.pdf
+**Get-Filehash -Algorithm SHA256 payroll.pdf**
 
 ![](screenshots/powershell1.png)
 
