@@ -42,8 +42,10 @@ Descobri que a tarefa programada é essa: Office365 Install
 
 Através a análise dos logs no Splunk foi possível identificar um ataque na rede onde o atacante tinha o objetivo de executar malware automaticamente toda vez que o computador inicia-se ou em horários específicos, iria manter acesso persistente, mesmo após reinicialização, queria esconder a atividade maliciosa usando um nome corporativo comum e possivelmente manter comunicação C2.
 
-![](images/image1.png)
-
 Autor: Paulo Cesar  
 Formado em Segurança da informação  
 linkedin.com/in/paulo-cesar-security
+
+![](images/image1.png)
+
+
