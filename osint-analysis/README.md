@@ -9,7 +9,7 @@
 
 O objetivo é demonstrar, de forma prática, o processo de coleta, análise e documentação de evidências em investigações baseadas em fontes abertas (OSINT).
 
-**🎯 Exemplos de Cenários Reais** na pasta [/investigations]([/investigations](https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/osint-analysis/investigations)
+**🎯 Exemplos de Cenários Reais** na pasta [/investigations](https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/osint-analysis/investigations)
 
 **🚀 Tecnologias e Conceitos Utilizados**
 - OSINT (Open Source Intelligence)
