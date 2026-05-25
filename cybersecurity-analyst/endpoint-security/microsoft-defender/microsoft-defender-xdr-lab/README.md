@@ -33,10 +33,10 @@ Eu devo executar as tarefas no cliente correto conforme indicado.
 Preparação do Microsoft Defender XDR
 
 **Eu devo:**
-![](https://github.com/paulo-cesar-security/cybersecurity-portfolio/cybersecurity-analyst/endpoint-security/microsoft-defender/microsoft-defender-xdr-lab/images/defender1.png)
 
 - Fazer login no Client2
 - Abrir Edge e acessar https://security.microsoft.com
+  ![](images/defender1.png)
 - Ir em Investigation and response → Incidents and alerts → Incidents
 - Aguardar mensagem de provisionamento
 - Fechar o Edge após conclusão
