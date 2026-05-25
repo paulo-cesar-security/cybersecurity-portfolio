@@ -1,4 +1,4 @@
-![](https://github.com/paulo-cesar-security/vulnx-labs/blob/main/images/projetos-em-destaque.png)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&pause=1000&color=00FF66&background=050505&width=435&lines=%3E+PROJETOS+EM+DESTAQUE!)](https://git.io/typing-svg)
 
 Os projetos simulam cenários reais enfrentados por equipes de segurança (SOC), aplicando metodologias e ferramentas amplamente utilizadas no mercado para identificação de ameaças, investigação de incidentes e análise de evidências digitais.
 
