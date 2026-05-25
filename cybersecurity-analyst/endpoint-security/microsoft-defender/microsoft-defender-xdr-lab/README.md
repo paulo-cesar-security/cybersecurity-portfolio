@@ -12,19 +12,13 @@ Eu posso executar as atividades no portal do Microsoft Defender ou em qualquer o
 
 **Passo 1**
 
-Eu faço login na máquina virtual:
-
-Nome de usuário: Admin
-Senha: Pa55w.rd
+Eu faço login na máquina virtual.
 
 **Tarefas**
 
 **E-mail 1 — Ambiente existente**
 
-Recebo credenciais para gerenciar recursos no Microsoft 365:
-
-Usuário: admin@WWLx401041.onmicrosoft.com
-Senha: pDr81D+26)(0tV]HXy40=S+A3Fi(xv~y
+Recebo credenciais para gerenciar recursos no Microsoft 365.
 
 Meu ambiente de laboratório contém duas VMs: Client1 e Client2 (Windows 11).
 
