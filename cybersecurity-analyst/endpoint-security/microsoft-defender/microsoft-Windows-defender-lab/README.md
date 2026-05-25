@@ -33,6 +33,7 @@ Eu devo executar as tarefas no cliente correto conforme indicado.
 Preparação do Microsoft Defender XDR
 
 **Eu devo:**
+![]()
 
 - Fazer login no Client2
 - Abrir Edge e acessar https://security.microsoft.com
