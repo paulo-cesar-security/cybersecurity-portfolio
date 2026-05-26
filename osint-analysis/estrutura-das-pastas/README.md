@@ -2,7 +2,7 @@
 
 Antes de começar, crio:
 
-/investigacao_x - NOME QUE ME AJUDARÁ LEMBRAR DO CASO<br>
+/investigacao_x (Nome que me ajudará lembrar do caso)<br>
  /anexos<br>
   /evidencias<br>
   /prints<br>
