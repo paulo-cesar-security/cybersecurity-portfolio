@@ -1,6 +1,6 @@
 # Etapas de preparação do ambiente de trabalho
 
-**1. Separar ambiente (REGRA Nº 1)**
+## 1. Separar ambiente (REGRA Nº 1)
 
 Nunca investigar no seu ambiente pessoal.
 
@@ -19,14 +19,14 @@ Ou melhor ainda: Usar uma máquina virtual
 - Misturar contas (Google, redes sociais, etc.)
   
 
-**2. Proteger o IP (anonimato básico)**
+## 2. Proteger o IP (anonimato básico)
 
 Opções: VPN confiável Ou rede Tor Browser
 
 **Importante:** Não é só “ficar anônimo” é evitar que o alvo saiba que você pesquisou ele.
 
 
-**3. Criar identidade de investigação (opcional, mas avançado)**
+## 3. Criar identidade de investigação (opcional, mas avançado)
 
 Profissionais criam contas separadas: 
 
@@ -40,7 +40,7 @@ Profissionais criam contas separadas:
 - Exposição da sua identidade real
   
 
-**4. Navegador LIMPO e preparado**
+## 4. Navegador LIMPO e preparado
 
 **Use um navegador só para OSINT:** Mozilla Firefox ou Brave
 
@@ -51,7 +51,7 @@ Profissionais criam contas separadas:
 - Sem autofill
 
 
-**5. Extensões úteis (nível profissional)**
+## 5. Extensões úteis (nível profissional)**
 
 Algumas essenciais:
 
@@ -60,7 +60,7 @@ Algumas essenciais:
 - Análise de links
 
 
-**6. Estrutura de pastas (muito importante)**
+## 6. Estrutura de pastas (muito importante)
 
 ```bash
 investigacao-x/
@@ -74,7 +74,7 @@ investigacao-x/
 Organização desde o início evita caos depois.
 
 
-**7. Ferramenta de captura de evidência**
+## 7. Ferramenta de captura de evidência
 
 - Prints
 - Gravação de tela
@@ -88,7 +88,7 @@ Organização desde o início evita caos depois.
 - Conteúdo
 
 
-**8. Evitar contaminação de resultados**
+## 8. Evitar contaminação de resultados
 
 Isso é avançado e MUITA gente ignora:
 
@@ -98,7 +98,7 @@ Isso é avançado e MUITA gente ignora:
 - Evitar resultados “personalizados”
 
 
-**9. Segurança pessoal (muito sério)**
+## 9. Segurança pessoal (muito sério)
 
 - Nunca clicar em links suspeitos direto
 - Nunca baixar arquivos desconhecidos
@@ -106,7 +106,7 @@ Isso é avançado e MUITA gente ignora:
 - Em casos mais avançados, até usam máquinas isoladas.
 
 
-**Sobre o autor**
+## Sobre o autor
 
 Paulo Cesar é formado em Segurança da informação pela Universidade Nove de Julho e apaixonado por Cibersegurança!<br>
 Mais informações e contato:<br>
