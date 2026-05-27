@@ -1,8 +1,10 @@
 # Etapas de uma investigação
 
-1. Definir o OBJETIVO (isso vem antes de tudo)
-Sem isso, sua investigação vira bagunça.
-Pergunte:
+**1. Definir o OBJETIVO (isso vem antes de tudo)**
+
+Sem isso, a investigação vira bagunça.
+sempre se perguntar:
+
 O que eu quero descobrir exatamente?
 
 Exemplo:
@@ -15,10 +17,11 @@ Exemplo:
 
 Isso é o início do Ciclo de Inteligência, usado por organizações como a NATO.
 
-2. Definir o PONTO DE PARTIDA (Seed)
-Você precisa de um dado inicial:
-Exemplos:
-Email
+**2. Definir o PONTO DE PARTIDA (Seed)**
+
+Precisa de um dado inicial. Exemplos:
+
+- Email
 
 - Número de telefone
 
@@ -28,34 +31,40 @@ Email
 
 - Site
 
-Esse é o seu “gatilho” de investigação.
+Esse é o “gatilho” de investigação.
 
-3. Começar a COLETA (fase prática)
-Agora sim você começa a buscar.
-Regra de ouro:
-Tudo que encontrar, já registra na planilha com ID
-Exemplo:
-Encontrou um email → cria E001
+**3. Começar a COLETA (fase prática)**
 
-Encontrou um nome → cria P001
+Agora sim começo a buscar. Regra de ouro:
 
-Encontrou um perfil → cria U001
+Tudo que encontrar, já registro na planilha com ID. Exemplo:
 
-4. Fazer PIVOTING (o coração do OSINT)
-Aqui você evolui a investigação:
+Encontrei um email → crio E001
+
+Encontrei um nome → crio P001
+
+Encontrei um perfil → crio U001
+
+**4. Fazer PIVOTING (o coração do OSINT)**
+
+Aqui evoluo a investigação:
+
 Exemplo real:
-Email → acha LinkedIn
 
-LinkedIn → acha empresa
+Email → acho LinkedIn
 
-Empresa → acha site
+LinkedIn → acho empresa
 
-Site → acha outro email
+Empresa → acho site
+
+Site → acho outro email
 
 Cada descoberta vira um novo ID + nova busca
 
-5. Criar RELACIONAMENTOS
-Não basta coletar — você precisa conectar:
+**5. Criar RELACIONAMENTOS**
+
+Não basta coletar — preciso conectar:
+
 Email → pertence a → Pessoa
 
 Pessoa → trabalha em → Empresa
@@ -64,10 +73,11 @@ Empresa → possui → Site
 
 Isso transforma dados em inteligência.
 
-6. Avaliar CONFIABILIDADE (muito ignorado)
-Para cada informação, defina:
-Alta → fonte confiável (ex: site oficial)
+**6. Avaliar CONFIABILIDADE**
 
+Para cada informação, defino:
+
+Alta → fonte confiável (ex: site oficial)
 
 Média → rede social
 
@@ -75,47 +85,55 @@ Baixa → informação não confirmada
 
 Profissionais fazem isso sempre.
 
-7. Guardar EVIDÊNCIAS
+**7. Guardar EVIDÊNCIAS**
+
 Sempre:
-Salve o link
 
-Tire print
+- Salvo o link
 
-Registre data
+- Tiro print
+
+- Registro data
 
 Isso evita perder prova (muito importante em golpes)
 
-8. Organizar enquanto investiga (não depois!)
-Use sua estrutura:
-Entidades
+**8. Organizar enquanto investiga (não depois!)**
 
-Relacionamentos
+Uso a estrutura:
 
-Evidências
+- Entidades
 
-Não deixe pra organizar no final — isso quebra iniciantes.
+- Relacionamentos
 
-9. Análise (aqui vira inteligência)
-Agora você responde o objetivo inicial:
-Quem é a pessoa?
+- Evidências
 
-Existe fraude?
+Não deixo para organizar no final — isso quebra iniciantes.
 
-Há ligação entre os dados?
+**9. Análise (aqui vira inteligência)**
 
-Aqui você “fecha o caso”.
+Agora respondo o objetivo inicial:
 
-10. Criar um RELATÓRIO (nível profissional)
+- Quem é a pessoa?
+
+- Existe fraude?
+
+- Há ligação entre os dados?
+
+Aqui “fecho o caso”.
+
+**10. Criar um RELATÓRIO (nível profissional)**
+
 Estrutura simples:
+
 Objetivo
 
-Dados coletados
+- Dados coletados
 
-Relações encontradas
+- Relações encontradas
 
-Evidências
+- Evidências
 
-Conclusão
+- Conclusão
 
 
 
