@@ -1,4 +1,4 @@
-# 🔎 Portfólio de Investigação Digital (OSINT)
+# Portfólio de Investigação Digital (OSINT)
 📌 Visão Geral
 
 **Este repositório apresenta a estrutura de organização utilizada em investigações digitais, incluindo:**
