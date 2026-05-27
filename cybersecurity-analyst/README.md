@@ -1,4 +1,4 @@
-# 🔐 Projetos de Cibersegurança, SOC, Blue Team e Red Team.
+# Projetos de Cibersegurança, SOC, Blue Team e Red Team.
 
 ## 📌 Descrição
 Coleção de projetos práticos simulando atividades de um analista de segurança em um SOC (Security Operations Center), com foco em detecção de ameaças, investigação e resposta a incidentes.
