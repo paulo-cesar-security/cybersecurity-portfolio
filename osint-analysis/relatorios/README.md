@@ -38,11 +38,11 @@ O número telefônico utilizado pelo suspeito foi encaminhado para análise peri
 ## 3. MATERIAL E INFORMAÇÕES RECEBIDAS
 Foram disponibilizados ao perito os seguintes elementos:
 ```bash
-**Item**      **Descrição**
-   01           Número telefônico utilizado pelo suspeito
-   02           Relato detalhado da vítima
-   03           Capturas de tela das mensagens enviadas
-   04           Data aproximada do ocorrido
+Item      Descrição
+ 01       Número telefônico utilizado pelo suspeito
+ 02       Relato detalhado da vítima
+ 03       Capturas de tela das mensagens enviadas
+ 04       Data aproximada do ocorrido
  ```
 
 **Número investigado:**
