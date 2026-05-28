@@ -59,6 +59,11 @@ Algumas essenciais:
 - Extração de dados
 - Análise de links
 
+  Exemplos:
+  - Multi-acconts containers: Separa diferentes contas criadas de redes sociais
+  - FireShot: Obtem capturas ecrã de paginas web.
+  - ScrapBee: Permite salvar páginas web inteiras para acessar offline.
+
 
 ## 6. Estrutura de pastas (muito importante)
 
