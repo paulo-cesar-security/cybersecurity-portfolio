@@ -5,7 +5,7 @@ Este espaço foi criado para centralizar anotações, procedimentos, pesquisas, 
 
 O objetivo é manter uma base organizada, rápida de consultar e continuamente atualizada para apoio em atividades técnicas, laboratoriais e profissionais.
 
-🎯 Objetivo
+**🎯 Objetivo**
 Esta pasta serve como uma biblioteca técnica pessoal para:
 
 Consulta rápida de comandos e procedimentos
@@ -22,8 +22,9 @@ Resumos de laboratórios e certificações
 
 Referências úteis para Blue Team, SOC, DFIR e Pentest
 
-🛠️ Conteúdos Documentados
-🔵 Blue Team
+**🛠️ Conteúdos Documentados
+🔵 Blue Team**
+
 SIEM
 
 Wazuh
@@ -38,7 +39,8 @@ Detecção de ameaças
 
 IOC e hunting
 
-🔴 Red Team / Pentest
+**🔴 Red Team / Pentest**
+
 Reconhecimento
 
 Enumeração
@@ -51,7 +53,8 @@ Ferramentas ofensivas
 
 Web Security
 
-🟣 DFIR / Forense
+**🟣 DFIR / Forense**
+
 Investigação de incidentes
 
 Coleta de evidências
@@ -62,7 +65,8 @@ Análise de logs
 
 Malware analysis
 
-🌐 Redes & Infraestrutura
+**🌐 Redes & Infraestrutura**
+
 TCP/IP
 
 Modelo OSI
@@ -79,7 +83,8 @@ Proxy
 
 Hardening
 
-☁️ Cloud Security
+**☁️ Cloud Security**
+
 Azure
 
 IAM
@@ -92,7 +97,8 @@ Sentinel
 
 Segurança em nuvem
 
-🐧 Linux & Windows
+**🐧 Linux & Windows**
+
 Administração
 
 Segurança
@@ -105,10 +111,10 @@ Bash
 
 Troubleshooting
 
-🧠 Filosofia
+**🧠 Filosofia**
 “Documentar economiza tempo, reduz erros e transforma experiência em conhecimento reutilizável.”
 
-Toda documentação armazenada aqui busca:
+**Toda documentação armazenada aqui busca:**
 
 Clareza
 
@@ -121,24 +127,26 @@ Reprodutibilidade
 Aprendizado contínuo
 
 
-🔍 Ferramentas Frequentemente Utilizadas
-Wazuh
+**🔍 Ferramentas Frequentemente Utilizadas**
 
-Microsoft Sentinel
+- Wazuh
 
-Elastic Stack
+- Microsoft Sentinel
 
-Wireshark
+- Elastic Stack
 
-Metasploit
+- Wireshark
 
-Nmap
+- Metasploit
 
-Burp Suite
+- Nmap
 
-Splunk
+- Burp Suite
 
-🚀 Evolução Contínua
+- Splunk
+
+**🚀 Evolução Contínua**
+
 Este repositório está em constante atualização conforme:
 
 novos estudos,
@@ -153,6 +161,6 @@ certificações,
 
 pesquisas e investigações.
 
-👨‍💻 Autor
+**👨‍💻 Autor**
 Paulo Cesar Security
 Cybersecurity • SOC • Pentest • Forense • OSINT
