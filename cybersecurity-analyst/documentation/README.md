@@ -6,125 +6,128 @@ Este espaço foi criado para centralizar anotações, procedimentos, pesquisas, 
 O objetivo é manter uma base organizada, rápida de consultar e continuamente atualizada para apoio em atividades técnicas, laboratoriais e profissionais.
 
 **🎯 Objetivo**
+
 Esta pasta serve como uma biblioteca técnica pessoal para:
 
-Consulta rápida de comandos e procedimentos
+- Consulta rápida de comandos e procedimentos
 
-Registro de análises e investigações
+- Registro de análises e investigações
 
-Estudos de ferramentas de segurança
+- Estudos de ferramentas de segurança
 
-Documentação de incidentes e troubleshooting
+- Documentação de incidentes e troubleshooting
 
-Cheatsheets e anotações importantes
+- Cheatsheets e anotações importantes
 
-Resumos de laboratórios e certificações
+- Resumos de laboratórios e certificações
 
-Referências úteis para Blue Team, SOC, DFIR e Pentest
+- Referências úteis para Blue Team, SOC, DFIR e Pentest
 
-**🛠️ Conteúdos Documentados
-🔵 Blue Team**
+**🛠️ Conteúdos Documentados 🔵 Blue Team**
 
-SIEM
+- SIEM
 
-Wazuh
+- Wazuh
 
-Microsoft Sentinel
+- Microsoft Sentinel
 
-Elastic Stack
+- Microsoft Defender
 
-Logs e correlação de eventos
+- Elastic Stack
 
-Detecção de ameaças
+- Logs e correlação de eventos
 
-IOC e hunting
+- Detecção de ameaças
+
+- IOC e hunting
 
 **🔴 Red Team / Pentest**
 
-Reconhecimento
+- Reconhecimento
 
-Enumeração
+- Enumeração
 
-Exploração
+- Exploração
 
-Pós-exploração
+- Pós-exploração
 
-Ferramentas ofensivas
+- Ferramentas ofensivas
 
-Web Security
+- Web Security
 
 **🟣 DFIR / Forense**
 
-Investigação de incidentes
+- Investigação de incidentes
 
-Coleta de evidências
+- Coleta de evidências
 
-Timeline analysis
+- Timeline analysis
 
-Análise de logs
+- Análise de logs
 
-Malware analysis
+- Malware analysis
 
 **🌐 Redes & Infraestrutura**
 
-TCP/IP
+- TCP/IP
 
-Modelo OSI
+- Modelo OSI
 
-VLAN
+- VLAN
 
-DNS
+- DNS
 
-VPN
+- VPN
 
-Firewall
+- Firewall
 
-Proxy
+- Proxy
 
-Hardening
+- Hardening
 
 **☁️ Cloud Security**
 
-Azure
+- Azure
 
-IAM
+- IAM
 
-Key Vault
+- Key Vault
 
-Defender
+- Defender
 
-Sentinel
+- Sentinel
 
-Segurança em nuvem
+- Segurança em nuvem
 
 **🐧 Linux & Windows**
 
-Administração
+- Administração
 
-Segurança
+- Segurança
 
-Scripts
+- Scripts
 
-PowerShell
+- PowerShell
 
-Bash
+- Bash
 
-Troubleshooting
+- Troubleshooting
 
 **🧠 Filosofia**
+
 “Documentar economiza tempo, reduz erros e transforma experiência em conhecimento reutilizável.”
 
 **Toda documentação armazenada aqui busca:**
 
-Clareza
+- Clareza
 
-Organização
+- Organização
 
-Consulta rápida
+- Consulta rápida
 
-Reprodutibilidade
+- Reprodutibilidade
 
-Aprendizado contínuo
+- Aprendizado contínuo
 
 
 **🔍 Ferramentas Frequentemente Utilizadas**
@@ -149,18 +152,12 @@ Aprendizado contínuo
 
 Este repositório está em constante atualização conforme:
 
-novos estudos,
-
-novas ferramentas,
-
-experiências práticas,
-
-laboratórios,
-
-certificações,
-
-pesquisas e investigações.
+Novos estudos, novas ferramentas, experiências práticas, laboratórios, certificações, pesquisas e investigações.
 
 **👨‍💻 Autor**
-Paulo Cesar Security
-Cybersecurity • SOC • Pentest • Forense • OSINT
+Paulo Cesar da Silva
+Cybersecurity 
+- SOC
+- Pentest
+- Forense 
+- OSINT
