@@ -14,9 +14,7 @@ Servidores centrais, pastas compartilhadas organizadas, permissões por setor.
 
 Existe um servidor chamado: **SRV-ARQUIVOS**
 
-Ele guarda:
-
-Documentos, planilhas, backups , arquivos da equipe.
+Ele guarda: Documentos, planilhas, backups , arquivos da equipe.
 
 # Exemplo realista
 A Ana fala:
@@ -25,13 +23,16 @@ A Ana fala:
 
 O Carlos já sabe que a pasta fica em:
 
-\\SRV-ARQUIVOS\Financeiro
+**\\SRV-ARQUIVOS\Financeiro**
 
 Então ele:
 
 Abre o Explorer, acessa o caminho, abre o arquivo.
 
 # Acessando pelo Linux
-o acesso desse mesmo exemplo seria: smb://SRV-ARQUIVOS/Financeiro
-Pelo terminal seria: smbclient //SRV-ARQUIVOS/Financeiro -U carlos
+o acesso desse mesmo exemplo seria: 
+**smb://SRV-ARQUIVOS/Financeiro**
+
+Pelo terminal seria: 
+**smbclient //SRV-ARQUIVOS/Financeiro -U carlos**
 
