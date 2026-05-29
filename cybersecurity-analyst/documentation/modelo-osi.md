@@ -1,6 +1,6 @@
 # O Modelo OSI (Open Systems Interconnection)
 
-É uma estrutura conceitual de 7 camadas criada pela ISO para padronizar a comunicação entre diferentes sistemas computacionais.
+É uma estrutura conceitual de **7 camadas** criada pela ISO para padronizar a comunicação entre diferentes sistemas computacionais.
 
 Ele divide o processo de transmissão de dados em etapas hierárquicas e independentes, facilitando o diagnóstico de falhas e a interoperabilidade.
 
@@ -14,10 +14,10 @@ As 7 camadas são organizadas da seguinte forma (do topo para a base):
 
 ## Camada Central
 
-**- 4. Transporte:** Assegura que os dados sejam entregues por completo, de forma confiável e na ordem correta. Controla o fluxo de informações. Protocolos: TCP e UDP.
+- **4. Transporte:** Assegura que os dados sejam entregues por completo, de forma confiável e na ordem correta. Controla o fluxo de informações. Protocolos: TCP e UDP.
 
 ## Camadas Inferiores (Orientadas ao Hardware)
 
-**- 3. Rede:** Determina a melhor rota para os dados chegarem ao destino (roteamento). Protocolos: IP.
-**- 2. Enlace de Dados:** Agrupa os bits em quadros (frames) e gerencia a detecção de erros e o controle de acesso físico à rede (MAC).
-**- 1. Física:** Transforma e transmite os dados em sinais brutos (elétricos, luminosos ou ondas de rádio) através do meio físico (cabos, fibra óptica, ar).
+- **3. Rede:** Determina a melhor rota para os dados chegarem ao destino (roteamento). Protocolos: IP.
+- **2. Enlace de Dados:** Agrupa os bits em quadros (frames) e gerencia a detecção de erros e o controle de acesso físico à rede (MAC).
+- **1. Física:** Transforma e transmite os dados em sinais brutos (elétricos, luminosos ou ondas de rádio) através do meio físico (cabos, fibra óptica, ar).
