@@ -1,0 +1,1 @@
+Coleção de investigações OSINT, incluindo casos reais e cenários simulados, com foco na aplicação prática de técnicas de inteligência de fontes abertas para identificação, correlação e análise de informações.
