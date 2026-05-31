@@ -1,11 +1,3 @@
-# Aba Entidades (o coração da investigação)
+# Planilha OSINT
 
-![](images/estrutura-planilha-osint-entidades.png)
-
-# Aba evidências:
-
-![](images/estrutura-planilha-osint-evidencias.png)
-
-# Aba relacionamentos:
-
-![](images/estrutura-planilha-osint-relacionamentos.png)
+![](images/planilha-osint.png)
