@@ -1,4 +1,4 @@
-# 3. Hashes e Integridade
+# Hashes e Integridade
 
 Tabela de referência rápida.
 
