@@ -1,15 +1,15 @@
 # Fases da perícia
 
-Identificação
-    ↓
-Preservação
-    ↓
-Coleta
-    ↓
-Exame
-    ↓
-Análise
-    ↓
-Relatório
-    ↓
+Identificação<br>
+    ↓<br>
+Preservação<br>
+    ↓<br>
+Coleta<br>
+    ↓<br>
+Exame<br>
+    ↓<br>
+Análise<br>
+    ↓<br>
+Relatório<br>
+    ↓<br>
 Apresentação
