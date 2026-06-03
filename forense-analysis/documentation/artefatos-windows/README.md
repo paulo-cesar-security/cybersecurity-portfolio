@@ -1,4 +1,4 @@
-# 4. Artefatos Windows
+# Artefatos Windows
 
 **Artefatos importantes**
 
