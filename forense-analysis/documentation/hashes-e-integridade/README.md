@@ -8,3 +8,11 @@ Tabela de referência rápida.
 | SHA1      | 160 bits |
 | SHA256    | 256 bits |
 | SHA512    | 512 bits |
+
+**Linux:**
+md5sum arquivo.img
+sha256sum arquivo.img
+
+**Windows**
+Powershell
+Get-FileHash arquivo.img -Algorithm SHA256
