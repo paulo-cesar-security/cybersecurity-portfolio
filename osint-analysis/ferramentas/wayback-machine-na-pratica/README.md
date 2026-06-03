@@ -1,5 +1,7 @@
 # Investigação OSINT com Wayback Machine
 
+![](image/wayback-machine.png)
+
 ## Objetivo
 
 Durante uma investigação OSINT, recebi a tarefa de coletar informações sobre uma empresa que havia removido diversas páginas de seu site oficial após denúncias envolvendo práticas comerciais questionáveis.
