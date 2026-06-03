@@ -1,6 +1,6 @@
 # Investigação OSINT com Wayback Machine
 
-![](image/wayback-machine.png)
+![](images/wayback-machine.png)
 
 ## Objetivo
 
@@ -79,3 +79,6 @@ A utilização de arquivos históricos pode fornecer contexto, evidências e inf
 ---
 
 > **Observação:** Este cenário possui finalidade exclusivamente educacional e foi desenvolvido para demonstrar técnicas de investigação em fontes abertas (OSINT).
+---
+Autor: Paulo Cesar da Silva
+Linkedin: linkedin.com/in/paulo-cesar-security
