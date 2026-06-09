@@ -78,7 +78,6 @@ Este projeto possui finalidade **educacional e demonstrativa**, seguindo boas pr
 * Cadeia de Custódia
 * Elaboração de Laudos Periciais
 
----
 
 ## 📬 Contato
 
