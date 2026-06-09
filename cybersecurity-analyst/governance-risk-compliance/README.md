@@ -13,7 +13,7 @@ Conformidade com normas, leis e frameworks<br>
 Apoio à tomada de decisão baseada em risco<br>
 Documentação e padronização de políticas de segurança
 
-** 🧭 Áreas de Atuação** <br>
+**🧭 Áreas de Atuação** <br>
 🏛️ Governance (Governança)<br>
 Definição de políticas e padrões de segurança<br>
 Estruturação de processos de segurança da informação<br>
