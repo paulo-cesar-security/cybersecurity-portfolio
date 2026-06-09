@@ -1,4 +1,4 @@
-🚀 Projetos de Segurança com SIEM
+# 🚀 Projetos de Segurança com SIEM
 Este repositório reúne projetos práticos desenvolvidos com ferramentas de SIEM, como Microsoft Sentinel e Splunk, focados em monitoramento, detecção de ameaças e análise de eventos de segurança.
 
 💡 Os projetos demonstram habilidades em investigação, correlação de logs e construção de ambientes voltados para operações de segurança (SOC), seguindo boas práticas do mercado.
