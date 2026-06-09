@@ -1,6 +1,6 @@
-Analisando logs no Linux
+# Analisando logs no Linux
 
-Cenário
+**Cenário**
 
 Sou analista Soc da EmpresaX, minha missão hoje é analisar logs do Linux para identificar dois incidentes que ocorreram com falhas de login e usuário criado e adcionado ao grupo "Sudo".
 
