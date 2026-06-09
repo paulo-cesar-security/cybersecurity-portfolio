@@ -1,4 +1,4 @@
-exiftool na prática
+# exiftool na prática
 
 Nesse cenário fui contratado para descobrir o local de uma foto tirada por um sequestrador. 
 
