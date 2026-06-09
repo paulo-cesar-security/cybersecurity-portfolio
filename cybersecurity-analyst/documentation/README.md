@@ -136,8 +136,6 @@ Esta pasta serve como uma biblioteca técnica pessoal para:
 
 - Microsoft Sentinel
 
-- Elastic Stack
-
 - Wireshark
 
 - Metasploit
