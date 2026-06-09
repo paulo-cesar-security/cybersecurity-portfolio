@@ -1,6 +1,6 @@
-Detectando ataques Web
+# Detectando ataques Web
 
-Investigação 
+**Investigação**
 
 O BankX, uma pequena plataforma de banco online, sofreu uma violação de segurança. Invasores invadiram o sistema e vazaram dados confidenciais de clientes em um fórum da darkweb. A administração acredita que a intrusão começou pelo site público da empresa, e cabe a mim descobrir exatamente como isso aconteceu. O arquivo que me foi enviado é: access.log. 
 Minha missão é analisar os logs e refazer os passos do invasor para revelar como a violação ocorreu. 
