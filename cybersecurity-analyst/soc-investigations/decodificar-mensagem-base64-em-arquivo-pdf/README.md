@@ -1,6 +1,6 @@
-Decodificar mensagem em arquivo PDF
+# Decodificar mensagem em arquivo PDF
 
-Cenário
+**Cenário**
 
 Um email suspeito foi identificado na caixa de entrada com um anexo em PDF codificado em base64. Minha missão é decodificar e visualizar a mensagem. Para isso irei usar o decodificador de PDF apivoid
 
