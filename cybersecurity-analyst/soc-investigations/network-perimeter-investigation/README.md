@@ -1,14 +1,14 @@
-Perímetros de rede: Investigando a violação
+# Perímetros de rede: Investigando a violação
 
-Cenário de Incidente
+**Cenário de Incidente**
 
 A Initech Corp, uma empresa de serviços financeiros de médio porte, implementou recentemente um novo sistema de detecção de intrusões (IDS) para monitorar o perímetro de sua rede. Ao longo do último mês, analistas de segurança notaram padrões de tráfego anormais, mas a equipe ficou sobrecarregada e não conseguiu realizar análises mais aprofundadas.
 
 Como um novo analista de segurança, fui encarregado de revisar um mês de logs de perímetro para determinar quais técnicas o adversário utilizou e se ele obteve sucesso em violar o perímetro.
 
-Recebi três conjuntos de logs do momento do incidente. 
-Logs do Firewall: firewall.log
-Logs do WAF: ids_alerts.log
+Recebi três conjuntos de logs do momento do incidente.<br>
+Logs do Firewall: firewall.log<br>
+Logs do WAF: ids_alerts.log<br>
 Logs da VPN: vpn_auth.log
 
 O resultado desse laboratório pode ser acessado na pasta /anexos acima.
